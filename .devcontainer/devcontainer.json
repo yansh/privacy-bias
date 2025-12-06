@@ -1,0 +1,39 @@
+{
+  "name": "Privacy-Bias-docker",
+  "dockerFile": "../Dockerfile",
+  // VS Code customizations
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "tomoki1207.pdf",
+        "ms-toolsai.jupyter",
+        "jupyter.jupyter-notebook"
+      ],
+      "settings": {
+        "files.eol": "\n",
+        "editor.formatOnSave": true,
+        "python.defaultInterpreterPath": "/opt/conda/envs/myenv/bin/python",
+        "python.formatting.blackArgs": [
+          "--line-length",
+          "79"
+        ],
+        "python.pythonPath": "/opt/conda/envs/myenv/bin/python",
+        "python.autoComplete.extraPaths": [
+          "/opt/conda/envs/myenv/lib/python3.13/site-packages"
+        ],
+        "python.linting.enabled": true,
+        "python.linting.pylintEnabled": true,
+        "python.linting.flake8Enabled": true
+      }
+    }
+  },
+  // Fixed mount paths (using workspace-relative variables)
+  "mounts": [
+    "type=bind,source=${localWorkspaceFolder}/plots/objects,target=/home/auditor/objects",
+    "type=bind,source=${localWorkspaceFolder}/plots,target=/home/auditor/plots"
+  ],
+  "remoteUser": "auditor"
+}

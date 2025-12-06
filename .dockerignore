@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except the files we want to include
+!requirements.txt
+!environment.yml
+!Dockerfile
+!LICENSE
+!README.md

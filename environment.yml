@@ -1,0 +1,14 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - seaborn
+  - ipywidgets
+  - widgetsnbextension
+  - jupyterlab_widgets
