@@ -35,4 +35,10 @@
 
 </details>
 
+
+## Important files
+
+plots/plots.ipynb : Jupyter notebook to generate all the papers figures.
+
+
  
