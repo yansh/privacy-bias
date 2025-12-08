@@ -36,7 +36,7 @@
   },
   // Fixed mount paths (using workspace-relative variables)
   "mounts": [
-    "type=bind,source=$(pwd),target=/home/ubuntu/privacy-bias"
+    "type=bind,source=./,target=/home/ubuntu/privacy-bias"
   ],
   "remoteUser": "auditor"
 }
