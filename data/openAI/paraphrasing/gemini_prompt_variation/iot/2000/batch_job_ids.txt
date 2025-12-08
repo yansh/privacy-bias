@@ -1,0 +1,11 @@
+'batch_690ec82ca24881908669afd5bcef37c0',data/openAI/gemini_pvar/iot/batch_iot_0_kshot.jsonl,completed 
+'batch_690ece7197688190a7a64f80d6c97055',data/openAI/gemini_pvar/iot/batch_iot_10_kshot.jsonl,completed 
+'batch_690ed32617b88190b1ea666e20be04b9',data/openAI/gemini_pvar/iot/batch_iot_1_kshot.jsonl,completed 
+'batch_690ed7db120c819082d1502a0fc23358',data/openAI/gemini_pvar/iot/batch_iot_2_kshot.jsonl,completed 
+'batch_690ed96d08d08190abbb6eb3d1fcbb6c',data/openAI/gemini_pvar/iot/batch_iot_3_kshot.jsonl,completed 
+'batch_690ede2182748190833cbb00bc1a35ca',data/openAI/gemini_pvar/iot/batch_iot_4_kshot.jsonl,completed 
+'batch_690ee46890d481909b87fbf7205d85f8',data/openAI/gemini_pvar/iot/batch_iot_5_kshot.jsonl,completed 
+'batch_690ee9e596508190b40c3772baddabf2',data/openAI/gemini_pvar/iot/batch_iot_6_kshot.jsonl,completed 
+'batch_690ef02b573c819089f87672f1789b29',data/openAI/gemini_pvar/iot/batch_iot_7_kshot.jsonl,completed 
+'batch_690ef73baea881909bff02e7f21588a2',data/openAI/gemini_pvar/iot/batch_iot_8_kshot.jsonl,completed 
+'batch_690efcbb0ce08190a0671bf2201dc0ab',data/openAI/gemini_pvar/iot/batch_iot_9_kshot.jsonl,completed 

@@ -1,0 +1,577 @@
+,vignette,sender,infotype,recipient,type
+0,a sleep monitor records owner's location which is sent to the local police,a sleep monitor,owner's location,the local police,iotNull
+1,a sleep monitor records owner's location which is sent to government intelligence agencies,a sleep monitor,owner's location,government intelligence agencies,iotNull
+2,a sleep monitor records owner's location which is sent to owner's doctor,a sleep monitor,owner's location,owner's doctor,iotNull
+3,a sleep monitor records owner's location which is sent to an Internet service provider,a sleep monitor,owner's location,an Internet service provider,iotNull
+4,a sleep monitor records owner's location which is sent to its manufacturer,a sleep monitor,owner's location,its manufacturer,iotNull
+5,a sleep monitor records owner's location which is sent to other devices in the home,a sleep monitor,owner's location,other devices in the home,iotNull
+6,a sleep monitor records owner's location which is sent to owner's immediate family,a sleep monitor,owner's location,owner's immediate family,iotNull
+7,a sleep monitor records owner's location which is sent to owner's social media accounts,a sleep monitor,owner's location,owner's social media accounts,iotNull
+8,a sleep monitor records owner's eating habits which is sent to the local police,a sleep monitor,owner's eating habits,the local police,iotNull
+9,a sleep monitor records owner's eating habits which is sent to government intelligence agencies,a sleep monitor,owner's eating habits,government intelligence agencies,iotNull
+10,a sleep monitor records owner's eating habits which is sent to owner's doctor,a sleep monitor,owner's eating habits,owner's doctor,iotNull
+11,a sleep monitor records owner's eating habits which is sent to an Internet service provider,a sleep monitor,owner's eating habits,an Internet service provider,iotNull
+12,a sleep monitor records owner's eating habits which is sent to its manufacturer,a sleep monitor,owner's eating habits,its manufacturer,iotNull
+13,a sleep monitor records owner's eating habits which is sent to other devices in the home,a sleep monitor,owner's eating habits,other devices in the home,iotNull
+14,a sleep monitor records owner's eating habits which is sent to owner's immediate family,a sleep monitor,owner's eating habits,owner's immediate family,iotNull
+15,a sleep monitor records owner's eating habits which is sent to owner's social media accounts,a sleep monitor,owner's eating habits,owner's social media accounts,iotNull
+16,a sleep monitor records the times owner is home which is sent to the local police,a sleep monitor,the times owner is home,the local police,iotNull
+17,a sleep monitor records the times owner is home which is sent to government intelligence agencies,a sleep monitor,the times owner is home,government intelligence agencies,iotNull
+18,a sleep monitor records the times owner is home which is sent to owner's doctor,a sleep monitor,the times owner is home,owner's doctor,iotNull
+19,a sleep monitor records the times owner is home which is sent to an Internet service provider,a sleep monitor,the times owner is home,an Internet service provider,iotNull
+20,a sleep monitor records the times owner is home which is sent to its manufacturer,a sleep monitor,the times owner is home,its manufacturer,iotNull
+21,a sleep monitor records the times owner is home which is sent to other devices in the home,a sleep monitor,the times owner is home,other devices in the home,iotNull
+22,a sleep monitor records the times owner is home which is sent to owner's immediate family,a sleep monitor,the times owner is home,owner's immediate family,iotNull
+23,a sleep monitor records the times owner is home which is sent to owner's social media accounts,a sleep monitor,the times owner is home,owner's social media accounts,iotNull
+24,a sleep monitor records owner's exercise routine which is sent to the local police,a sleep monitor,owner's exercise routine,the local police,iotNull
+25,a sleep monitor records owner's exercise routine which is sent to government intelligence agencies,a sleep monitor,owner's exercise routine,government intelligence agencies,iotNull
+26,a sleep monitor records owner's exercise routine which is sent to owner's doctor,a sleep monitor,owner's exercise routine,owner's doctor,iotNull
+27,a sleep monitor records owner's exercise routine which is sent to an Internet service provider,a sleep monitor,owner's exercise routine,an Internet service provider,iotNull
+28,a sleep monitor records owner's exercise routine which is sent to its manufacturer,a sleep monitor,owner's exercise routine,its manufacturer,iotNull
+29,a sleep monitor records owner's exercise routine which is sent to other devices in the home,a sleep monitor,owner's exercise routine,other devices in the home,iotNull
+30,a sleep monitor records owner's exercise routine which is sent to owner's immediate family,a sleep monitor,owner's exercise routine,owner's immediate family,iotNull
+31,a sleep monitor records owner's exercise routine which is sent to owner's social media accounts,a sleep monitor,owner's exercise routine,owner's social media accounts,iotNull
+32,a sleep monitor records owner's sleeping habits which is sent to the local police,a sleep monitor,owner's sleeping habits,the local police,iotNull
+33,a sleep monitor records owner's sleeping habits which is sent to government intelligence agencies,a sleep monitor,owner's sleeping habits,government intelligence agencies,iotNull
+34,a sleep monitor records owner's sleeping habits which is sent to owner's doctor,a sleep monitor,owner's sleeping habits,owner's doctor,iotNull
+35,a sleep monitor records owner's sleeping habits which is sent to an Internet service provider,a sleep monitor,owner's sleeping habits,an Internet service provider,iotNull
+36,a sleep monitor records owner's sleeping habits which is sent to its manufacturer,a sleep monitor,owner's sleeping habits,its manufacturer,iotNull
+37,a sleep monitor records owner's sleeping habits which is sent to other devices in the home,a sleep monitor,owner's sleeping habits,other devices in the home,iotNull
+38,a sleep monitor records owner's sleeping habits which is sent to owner's immediate family,a sleep monitor,owner's sleeping habits,owner's immediate family,iotNull
+39,a sleep monitor records owner's sleeping habits which is sent to owner's social media accounts,a sleep monitor,owner's sleeping habits,owner's social media accounts,iotNull
+40,a sleep monitor records audio of owner which is sent to the local police,a sleep monitor,audio of owner,the local police,iotNull
+41,a sleep monitor records audio of owner which is sent to government intelligence agencies,a sleep monitor,audio of owner,government intelligence agencies,iotNull
+42,a sleep monitor records audio of owner which is sent to owner's doctor,a sleep monitor,audio of owner,owner's doctor,iotNull
+43,a sleep monitor records audio of owner which is sent to an Internet service provider,a sleep monitor,audio of owner,an Internet service provider,iotNull
+44,a sleep monitor records audio of owner which is sent to its manufacturer,a sleep monitor,audio of owner,its manufacturer,iotNull
+45,a sleep monitor records audio of owner which is sent to other devices in the home,a sleep monitor,audio of owner,other devices in the home,iotNull
+46,a sleep monitor records audio of owner which is sent to owner's immediate family,a sleep monitor,audio of owner,owner's immediate family,iotNull
+47,a sleep monitor records audio of owner which is sent to owner's social media accounts,a sleep monitor,audio of owner,owner's social media accounts,iotNull
+48,a sleep monitor records video of owner which is sent to the local police,a sleep monitor,video of owner,the local police,iotNull
+49,a sleep monitor records video of owner which is sent to government intelligence agencies,a sleep monitor,video of owner,government intelligence agencies,iotNull
+50,a sleep monitor records video of owner which is sent to owner's doctor,a sleep monitor,video of owner,owner's doctor,iotNull
+51,a sleep monitor records video of owner which is sent to an Internet service provider,a sleep monitor,video of owner,an Internet service provider,iotNull
+52,a sleep monitor records video of owner which is sent to its manufacturer,a sleep monitor,video of owner,its manufacturer,iotNull
+53,a sleep monitor records video of owner which is sent to other devices in the home,a sleep monitor,video of owner,other devices in the home,iotNull
+54,a sleep monitor records video of owner which is sent to owner's immediate family,a sleep monitor,video of owner,owner's immediate family,iotNull
+55,a sleep monitor records video of owner which is sent to owner's social media accounts,a sleep monitor,video of owner,owner's social media accounts,iotNull
+56,a sleep monitor records owner's heart rate which is sent to the local police,a sleep monitor,owner's heart rate,the local police,iotNull
+57,a sleep monitor records owner's heart rate which is sent to government intelligence agencies,a sleep monitor,owner's heart rate,government intelligence agencies,iotNull
+58,a sleep monitor records owner's heart rate which is sent to owner's doctor,a sleep monitor,owner's heart rate,owner's doctor,iotNull
+59,a sleep monitor records owner's heart rate which is sent to an Internet service provider,a sleep monitor,owner's heart rate,an Internet service provider,iotNull
+60,a sleep monitor records owner's heart rate which is sent to its manufacturer,a sleep monitor,owner's heart rate,its manufacturer,iotNull
+61,a sleep monitor records owner's heart rate which is sent to other devices in the home,a sleep monitor,owner's heart rate,other devices in the home,iotNull
+62,a sleep monitor records owner's heart rate which is sent to owner's immediate family,a sleep monitor,owner's heart rate,owner's immediate family,iotNull
+63,a sleep monitor records owner's heart rate which is sent to owner's social media accounts,a sleep monitor,owner's heart rate,owner's social media accounts,iotNull
+64,a sleep monitor records the times it is used which is sent to the local police,a sleep monitor,the times it is used,the local police,iotNull
+65,a sleep monitor records the times it is used which is sent to government intelligence agencies,a sleep monitor,the times it is used,government intelligence agencies,iotNull
+66,a sleep monitor records the times it is used which is sent to owner's doctor,a sleep monitor,the times it is used,owner's doctor,iotNull
+67,a sleep monitor records the times it is used which is sent to an Internet service provider,a sleep monitor,the times it is used,an Internet service provider,iotNull
+68,a sleep monitor records the times it is used which is sent to its manufacturer,a sleep monitor,the times it is used,its manufacturer,iotNull
+69,a sleep monitor records the times it is used which is sent to other devices in the home,a sleep monitor,the times it is used,other devices in the home,iotNull
+70,a sleep monitor records the times it is used which is sent to owner's immediate family,a sleep monitor,the times it is used,owner's immediate family,iotNull
+71,a sleep monitor records the times it is used which is sent to owner's social media accounts,a sleep monitor,the times it is used,owner's social media accounts,iotNull
+72,a security camera records owner's location which is sent to the local police,a security camera,owner's location,the local police,iotNull
+73,a security camera records owner's location which is sent to government intelligence agencies,a security camera,owner's location,government intelligence agencies,iotNull
+74,a security camera records owner's location which is sent to owner's doctor,a security camera,owner's location,owner's doctor,iotNull
+75,a security camera records owner's location which is sent to an Internet service provider,a security camera,owner's location,an Internet service provider,iotNull
+76,a security camera records owner's location which is sent to its manufacturer,a security camera,owner's location,its manufacturer,iotNull
+77,a security camera records owner's location which is sent to other devices in the home,a security camera,owner's location,other devices in the home,iotNull
+78,a security camera records owner's location which is sent to owner's immediate family,a security camera,owner's location,owner's immediate family,iotNull
+79,a security camera records owner's location which is sent to owner's social media accounts,a security camera,owner's location,owner's social media accounts,iotNull
+80,a security camera records owner's eating habits which is sent to the local police,a security camera,owner's eating habits,the local police,iotNull
+81,a security camera records owner's eating habits which is sent to government intelligence agencies,a security camera,owner's eating habits,government intelligence agencies,iotNull
+82,a security camera records owner's eating habits which is sent to owner's doctor,a security camera,owner's eating habits,owner's doctor,iotNull
+83,a security camera records owner's eating habits which is sent to an Internet service provider,a security camera,owner's eating habits,an Internet service provider,iotNull
+84,a security camera records owner's eating habits which is sent to its manufacturer,a security camera,owner's eating habits,its manufacturer,iotNull
+85,a security camera records owner's eating habits which is sent to other devices in the home,a security camera,owner's eating habits,other devices in the home,iotNull
+86,a security camera records owner's eating habits which is sent to owner's immediate family,a security camera,owner's eating habits,owner's immediate family,iotNull
+87,a security camera records owner's eating habits which is sent to owner's social media accounts,a security camera,owner's eating habits,owner's social media accounts,iotNull
+88,a security camera records the times owner is home which is sent to the local police,a security camera,the times owner is home,the local police,iotNull
+89,a security camera records the times owner is home which is sent to government intelligence agencies,a security camera,the times owner is home,government intelligence agencies,iotNull
+90,a security camera records the times owner is home which is sent to owner's doctor,a security camera,the times owner is home,owner's doctor,iotNull
+91,a security camera records the times owner is home which is sent to an Internet service provider,a security camera,the times owner is home,an Internet service provider,iotNull
+92,a security camera records the times owner is home which is sent to its manufacturer,a security camera,the times owner is home,its manufacturer,iotNull
+93,a security camera records the times owner is home which is sent to other devices in the home,a security camera,the times owner is home,other devices in the home,iotNull
+94,a security camera records the times owner is home which is sent to owner's immediate family,a security camera,the times owner is home,owner's immediate family,iotNull
+95,a security camera records the times owner is home which is sent to owner's social media accounts,a security camera,the times owner is home,owner's social media accounts,iotNull
+96,a security camera records owner's exercise routine which is sent to the local police,a security camera,owner's exercise routine,the local police,iotNull
+97,a security camera records owner's exercise routine which is sent to government intelligence agencies,a security camera,owner's exercise routine,government intelligence agencies,iotNull
+98,a security camera records owner's exercise routine which is sent to owner's doctor,a security camera,owner's exercise routine,owner's doctor,iotNull
+99,a security camera records owner's exercise routine which is sent to an Internet service provider,a security camera,owner's exercise routine,an Internet service provider,iotNull
+100,a security camera records owner's exercise routine which is sent to its manufacturer,a security camera,owner's exercise routine,its manufacturer,iotNull
+101,a security camera records owner's exercise routine which is sent to other devices in the home,a security camera,owner's exercise routine,other devices in the home,iotNull
+102,a security camera records owner's exercise routine which is sent to owner's immediate family,a security camera,owner's exercise routine,owner's immediate family,iotNull
+103,a security camera records owner's exercise routine which is sent to owner's social media accounts,a security camera,owner's exercise routine,owner's social media accounts,iotNull
+104,a security camera records owner's sleeping habits which is sent to the local police,a security camera,owner's sleeping habits,the local police,iotNull
+105,a security camera records owner's sleeping habits which is sent to government intelligence agencies,a security camera,owner's sleeping habits,government intelligence agencies,iotNull
+106,a security camera records owner's sleeping habits which is sent to owner's doctor,a security camera,owner's sleeping habits,owner's doctor,iotNull
+107,a security camera records owner's sleeping habits which is sent to an Internet service provider,a security camera,owner's sleeping habits,an Internet service provider,iotNull
+108,a security camera records owner's sleeping habits which is sent to its manufacturer,a security camera,owner's sleeping habits,its manufacturer,iotNull
+109,a security camera records owner's sleeping habits which is sent to other devices in the home,a security camera,owner's sleeping habits,other devices in the home,iotNull
+110,a security camera records owner's sleeping habits which is sent to owner's immediate family,a security camera,owner's sleeping habits,owner's immediate family,iotNull
+111,a security camera records owner's sleeping habits which is sent to owner's social media accounts,a security camera,owner's sleeping habits,owner's social media accounts,iotNull
+112,a security camera records audio of owner which is sent to the local police,a security camera,audio of owner,the local police,iotNull
+113,a security camera records audio of owner which is sent to government intelligence agencies,a security camera,audio of owner,government intelligence agencies,iotNull
+114,a security camera records audio of owner which is sent to owner's doctor,a security camera,audio of owner,owner's doctor,iotNull
+115,a security camera records audio of owner which is sent to an Internet service provider,a security camera,audio of owner,an Internet service provider,iotNull
+116,a security camera records audio of owner which is sent to its manufacturer,a security camera,audio of owner,its manufacturer,iotNull
+117,a security camera records audio of owner which is sent to other devices in the home,a security camera,audio of owner,other devices in the home,iotNull
+118,a security camera records audio of owner which is sent to owner's immediate family,a security camera,audio of owner,owner's immediate family,iotNull
+119,a security camera records audio of owner which is sent to owner's social media accounts,a security camera,audio of owner,owner's social media accounts,iotNull
+120,a security camera records video of owner which is sent to the local police,a security camera,video of owner,the local police,iotNull
+121,a security camera records video of owner which is sent to government intelligence agencies,a security camera,video of owner,government intelligence agencies,iotNull
+122,a security camera records video of owner which is sent to owner's doctor,a security camera,video of owner,owner's doctor,iotNull
+123,a security camera records video of owner which is sent to an Internet service provider,a security camera,video of owner,an Internet service provider,iotNull
+124,a security camera records video of owner which is sent to its manufacturer,a security camera,video of owner,its manufacturer,iotNull
+125,a security camera records video of owner which is sent to other devices in the home,a security camera,video of owner,other devices in the home,iotNull
+126,a security camera records video of owner which is sent to owner's immediate family,a security camera,video of owner,owner's immediate family,iotNull
+127,a security camera records video of owner which is sent to owner's social media accounts,a security camera,video of owner,owner's social media accounts,iotNull
+128,a security camera records owner's heart rate which is sent to the local police,a security camera,owner's heart rate,the local police,iotNull
+129,a security camera records owner's heart rate which is sent to government intelligence agencies,a security camera,owner's heart rate,government intelligence agencies,iotNull
+130,a security camera records owner's heart rate which is sent to owner's doctor,a security camera,owner's heart rate,owner's doctor,iotNull
+131,a security camera records owner's heart rate which is sent to an Internet service provider,a security camera,owner's heart rate,an Internet service provider,iotNull
+132,a security camera records owner's heart rate which is sent to its manufacturer,a security camera,owner's heart rate,its manufacturer,iotNull
+133,a security camera records owner's heart rate which is sent to other devices in the home,a security camera,owner's heart rate,other devices in the home,iotNull
+134,a security camera records owner's heart rate which is sent to owner's immediate family,a security camera,owner's heart rate,owner's immediate family,iotNull
+135,a security camera records owner's heart rate which is sent to owner's social media accounts,a security camera,owner's heart rate,owner's social media accounts,iotNull
+136,a security camera records the times it is used which is sent to the local police,a security camera,the times it is used,the local police,iotNull
+137,a security camera records the times it is used which is sent to government intelligence agencies,a security camera,the times it is used,government intelligence agencies,iotNull
+138,a security camera records the times it is used which is sent to owner's doctor,a security camera,the times it is used,owner's doctor,iotNull
+139,a security camera records the times it is used which is sent to an Internet service provider,a security camera,the times it is used,an Internet service provider,iotNull
+140,a security camera records the times it is used which is sent to its manufacturer,a security camera,the times it is used,its manufacturer,iotNull
+141,a security camera records the times it is used which is sent to other devices in the home,a security camera,the times it is used,other devices in the home,iotNull
+142,a security camera records the times it is used which is sent to owner's immediate family,a security camera,the times it is used,owner's immediate family,iotNull
+143,a security camera records the times it is used which is sent to owner's social media accounts,a security camera,the times it is used,owner's social media accounts,iotNull
+144,a door lock records owner's location which is sent to the local police,a door lock,owner's location,the local police,iotNull
+145,a door lock records owner's location which is sent to government intelligence agencies,a door lock,owner's location,government intelligence agencies,iotNull
+146,a door lock records owner's location which is sent to owner's doctor,a door lock,owner's location,owner's doctor,iotNull
+147,a door lock records owner's location which is sent to an Internet service provider,a door lock,owner's location,an Internet service provider,iotNull
+148,a door lock records owner's location which is sent to its manufacturer,a door lock,owner's location,its manufacturer,iotNull
+149,a door lock records owner's location which is sent to other devices in the home,a door lock,owner's location,other devices in the home,iotNull
+150,a door lock records owner's location which is sent to owner's immediate family,a door lock,owner's location,owner's immediate family,iotNull
+151,a door lock records owner's location which is sent to owner's social media accounts,a door lock,owner's location,owner's social media accounts,iotNull
+152,a door lock records owner's eating habits which is sent to the local police,a door lock,owner's eating habits,the local police,iotNull
+153,a door lock records owner's eating habits which is sent to government intelligence agencies,a door lock,owner's eating habits,government intelligence agencies,iotNull
+154,a door lock records owner's eating habits which is sent to owner's doctor,a door lock,owner's eating habits,owner's doctor,iotNull
+155,a door lock records owner's eating habits which is sent to an Internet service provider,a door lock,owner's eating habits,an Internet service provider,iotNull
+156,a door lock records owner's eating habits which is sent to its manufacturer,a door lock,owner's eating habits,its manufacturer,iotNull
+157,a door lock records owner's eating habits which is sent to other devices in the home,a door lock,owner's eating habits,other devices in the home,iotNull
+158,a door lock records owner's eating habits which is sent to owner's immediate family,a door lock,owner's eating habits,owner's immediate family,iotNull
+159,a door lock records owner's eating habits which is sent to owner's social media accounts,a door lock,owner's eating habits,owner's social media accounts,iotNull
+160,a door lock records the times owner is home which is sent to the local police,a door lock,the times owner is home,the local police,iotNull
+161,a door lock records the times owner is home which is sent to government intelligence agencies,a door lock,the times owner is home,government intelligence agencies,iotNull
+162,a door lock records the times owner is home which is sent to owner's doctor,a door lock,the times owner is home,owner's doctor,iotNull
+163,a door lock records the times owner is home which is sent to an Internet service provider,a door lock,the times owner is home,an Internet service provider,iotNull
+164,a door lock records the times owner is home which is sent to its manufacturer,a door lock,the times owner is home,its manufacturer,iotNull
+165,a door lock records the times owner is home which is sent to other devices in the home,a door lock,the times owner is home,other devices in the home,iotNull
+166,a door lock records the times owner is home which is sent to owner's immediate family,a door lock,the times owner is home,owner's immediate family,iotNull
+167,a door lock records the times owner is home which is sent to owner's social media accounts,a door lock,the times owner is home,owner's social media accounts,iotNull
+168,a door lock records owner's exercise routine which is sent to the local police,a door lock,owner's exercise routine,the local police,iotNull
+169,a door lock records owner's exercise routine which is sent to government intelligence agencies,a door lock,owner's exercise routine,government intelligence agencies,iotNull
+170,a door lock records owner's exercise routine which is sent to owner's doctor,a door lock,owner's exercise routine,owner's doctor,iotNull
+171,a door lock records owner's exercise routine which is sent to an Internet service provider,a door lock,owner's exercise routine,an Internet service provider,iotNull
+172,a door lock records owner's exercise routine which is sent to its manufacturer,a door lock,owner's exercise routine,its manufacturer,iotNull
+173,a door lock records owner's exercise routine which is sent to other devices in the home,a door lock,owner's exercise routine,other devices in the home,iotNull
+174,a door lock records owner's exercise routine which is sent to owner's immediate family,a door lock,owner's exercise routine,owner's immediate family,iotNull
+175,a door lock records owner's exercise routine which is sent to owner's social media accounts,a door lock,owner's exercise routine,owner's social media accounts,iotNull
+176,a door lock records owner's sleeping habits which is sent to the local police,a door lock,owner's sleeping habits,the local police,iotNull
+177,a door lock records owner's sleeping habits which is sent to government intelligence agencies,a door lock,owner's sleeping habits,government intelligence agencies,iotNull
+178,a door lock records owner's sleeping habits which is sent to owner's doctor,a door lock,owner's sleeping habits,owner's doctor,iotNull
+179,a door lock records owner's sleeping habits which is sent to an Internet service provider,a door lock,owner's sleeping habits,an Internet service provider,iotNull
+180,a door lock records owner's sleeping habits which is sent to its manufacturer,a door lock,owner's sleeping habits,its manufacturer,iotNull
+181,a door lock records owner's sleeping habits which is sent to other devices in the home,a door lock,owner's sleeping habits,other devices in the home,iotNull
+182,a door lock records owner's sleeping habits which is sent to owner's immediate family,a door lock,owner's sleeping habits,owner's immediate family,iotNull
+183,a door lock records owner's sleeping habits which is sent to owner's social media accounts,a door lock,owner's sleeping habits,owner's social media accounts,iotNull
+184,a door lock records audio of owner which is sent to the local police,a door lock,audio of owner,the local police,iotNull
+185,a door lock records audio of owner which is sent to government intelligence agencies,a door lock,audio of owner,government intelligence agencies,iotNull
+186,a door lock records audio of owner which is sent to owner's doctor,a door lock,audio of owner,owner's doctor,iotNull
+187,a door lock records audio of owner which is sent to an Internet service provider,a door lock,audio of owner,an Internet service provider,iotNull
+188,a door lock records audio of owner which is sent to its manufacturer,a door lock,audio of owner,its manufacturer,iotNull
+189,a door lock records audio of owner which is sent to other devices in the home,a door lock,audio of owner,other devices in the home,iotNull
+190,a door lock records audio of owner which is sent to owner's immediate family,a door lock,audio of owner,owner's immediate family,iotNull
+191,a door lock records audio of owner which is sent to owner's social media accounts,a door lock,audio of owner,owner's social media accounts,iotNull
+192,a door lock records video of owner which is sent to the local police,a door lock,video of owner,the local police,iotNull
+193,a door lock records video of owner which is sent to government intelligence agencies,a door lock,video of owner,government intelligence agencies,iotNull
+194,a door lock records video of owner which is sent to owner's doctor,a door lock,video of owner,owner's doctor,iotNull
+195,a door lock records video of owner which is sent to an Internet service provider,a door lock,video of owner,an Internet service provider,iotNull
+196,a door lock records video of owner which is sent to its manufacturer,a door lock,video of owner,its manufacturer,iotNull
+197,a door lock records video of owner which is sent to other devices in the home,a door lock,video of owner,other devices in the home,iotNull
+198,a door lock records video of owner which is sent to owner's immediate family,a door lock,video of owner,owner's immediate family,iotNull
+199,a door lock records video of owner which is sent to owner's social media accounts,a door lock,video of owner,owner's social media accounts,iotNull
+200,a door lock records owner's heart rate which is sent to the local police,a door lock,owner's heart rate,the local police,iotNull
+201,a door lock records owner's heart rate which is sent to government intelligence agencies,a door lock,owner's heart rate,government intelligence agencies,iotNull
+202,a door lock records owner's heart rate which is sent to owner's doctor,a door lock,owner's heart rate,owner's doctor,iotNull
+203,a door lock records owner's heart rate which is sent to an Internet service provider,a door lock,owner's heart rate,an Internet service provider,iotNull
+204,a door lock records owner's heart rate which is sent to its manufacturer,a door lock,owner's heart rate,its manufacturer,iotNull
+205,a door lock records owner's heart rate which is sent to other devices in the home,a door lock,owner's heart rate,other devices in the home,iotNull
+206,a door lock records owner's heart rate which is sent to owner's immediate family,a door lock,owner's heart rate,owner's immediate family,iotNull
+207,a door lock records owner's heart rate which is sent to owner's social media accounts,a door lock,owner's heart rate,owner's social media accounts,iotNull
+208,a door lock records the times it is used which is sent to the local police,a door lock,the times it is used,the local police,iotNull
+209,a door lock records the times it is used which is sent to government intelligence agencies,a door lock,the times it is used,government intelligence agencies,iotNull
+210,a door lock records the times it is used which is sent to owner's doctor,a door lock,the times it is used,owner's doctor,iotNull
+211,a door lock records the times it is used which is sent to an Internet service provider,a door lock,the times it is used,an Internet service provider,iotNull
+212,a door lock records the times it is used which is sent to its manufacturer,a door lock,the times it is used,its manufacturer,iotNull
+213,a door lock records the times it is used which is sent to other devices in the home,a door lock,the times it is used,other devices in the home,iotNull
+214,a door lock records the times it is used which is sent to owner's immediate family,a door lock,the times it is used,owner's immediate family,iotNull
+215,a door lock records the times it is used which is sent to owner's social media accounts,a door lock,the times it is used,owner's social media accounts,iotNull
+216,a thermostat records owner's location which is sent to the local police,a thermostat,owner's location,the local police,iotNull
+217,a thermostat records owner's location which is sent to government intelligence agencies,a thermostat,owner's location,government intelligence agencies,iotNull
+218,a thermostat records owner's location which is sent to owner's doctor,a thermostat,owner's location,owner's doctor,iotNull
+219,a thermostat records owner's location which is sent to an Internet service provider,a thermostat,owner's location,an Internet service provider,iotNull
+220,a thermostat records owner's location which is sent to its manufacturer,a thermostat,owner's location,its manufacturer,iotNull
+221,a thermostat records owner's location which is sent to other devices in the home,a thermostat,owner's location,other devices in the home,iotNull
+222,a thermostat records owner's location which is sent to owner's immediate family,a thermostat,owner's location,owner's immediate family,iotNull
+223,a thermostat records owner's location which is sent to owner's social media accounts,a thermostat,owner's location,owner's social media accounts,iotNull
+224,a thermostat records owner's eating habits which is sent to the local police,a thermostat,owner's eating habits,the local police,iotNull
+225,a thermostat records owner's eating habits which is sent to government intelligence agencies,a thermostat,owner's eating habits,government intelligence agencies,iotNull
+226,a thermostat records owner's eating habits which is sent to owner's doctor,a thermostat,owner's eating habits,owner's doctor,iotNull
+227,a thermostat records owner's eating habits which is sent to an Internet service provider,a thermostat,owner's eating habits,an Internet service provider,iotNull
+228,a thermostat records owner's eating habits which is sent to its manufacturer,a thermostat,owner's eating habits,its manufacturer,iotNull
+229,a thermostat records owner's eating habits which is sent to other devices in the home,a thermostat,owner's eating habits,other devices in the home,iotNull
+230,a thermostat records owner's eating habits which is sent to owner's immediate family,a thermostat,owner's eating habits,owner's immediate family,iotNull
+231,a thermostat records owner's eating habits which is sent to owner's social media accounts,a thermostat,owner's eating habits,owner's social media accounts,iotNull
+232,a thermostat records the times owner is home which is sent to the local police,a thermostat,the times owner is home,the local police,iotNull
+233,a thermostat records the times owner is home which is sent to government intelligence agencies,a thermostat,the times owner is home,government intelligence agencies,iotNull
+234,a thermostat records the times owner is home which is sent to owner's doctor,a thermostat,the times owner is home,owner's doctor,iotNull
+235,a thermostat records the times owner is home which is sent to an Internet service provider,a thermostat,the times owner is home,an Internet service provider,iotNull
+236,a thermostat records the times owner is home which is sent to its manufacturer,a thermostat,the times owner is home,its manufacturer,iotNull
+237,a thermostat records the times owner is home which is sent to other devices in the home,a thermostat,the times owner is home,other devices in the home,iotNull
+238,a thermostat records the times owner is home which is sent to owner's immediate family,a thermostat,the times owner is home,owner's immediate family,iotNull
+239,a thermostat records the times owner is home which is sent to owner's social media accounts,a thermostat,the times owner is home,owner's social media accounts,iotNull
+240,a thermostat records owner's exercise routine which is sent to the local police,a thermostat,owner's exercise routine,the local police,iotNull
+241,a thermostat records owner's exercise routine which is sent to government intelligence agencies,a thermostat,owner's exercise routine,government intelligence agencies,iotNull
+242,a thermostat records owner's exercise routine which is sent to owner's doctor,a thermostat,owner's exercise routine,owner's doctor,iotNull
+243,a thermostat records owner's exercise routine which is sent to an Internet service provider,a thermostat,owner's exercise routine,an Internet service provider,iotNull
+244,a thermostat records owner's exercise routine which is sent to its manufacturer,a thermostat,owner's exercise routine,its manufacturer,iotNull
+245,a thermostat records owner's exercise routine which is sent to other devices in the home,a thermostat,owner's exercise routine,other devices in the home,iotNull
+246,a thermostat records owner's exercise routine which is sent to owner's immediate family,a thermostat,owner's exercise routine,owner's immediate family,iotNull
+247,a thermostat records owner's exercise routine which is sent to owner's social media accounts,a thermostat,owner's exercise routine,owner's social media accounts,iotNull
+248,a thermostat records owner's sleeping habits which is sent to the local police,a thermostat,owner's sleeping habits,the local police,iotNull
+249,a thermostat records owner's sleeping habits which is sent to government intelligence agencies,a thermostat,owner's sleeping habits,government intelligence agencies,iotNull
+250,a thermostat records owner's sleeping habits which is sent to owner's doctor,a thermostat,owner's sleeping habits,owner's doctor,iotNull
+251,a thermostat records owner's sleeping habits which is sent to an Internet service provider,a thermostat,owner's sleeping habits,an Internet service provider,iotNull
+252,a thermostat records owner's sleeping habits which is sent to its manufacturer,a thermostat,owner's sleeping habits,its manufacturer,iotNull
+253,a thermostat records owner's sleeping habits which is sent to other devices in the home,a thermostat,owner's sleeping habits,other devices in the home,iotNull
+254,a thermostat records owner's sleeping habits which is sent to owner's immediate family,a thermostat,owner's sleeping habits,owner's immediate family,iotNull
+255,a thermostat records owner's sleeping habits which is sent to owner's social media accounts,a thermostat,owner's sleeping habits,owner's social media accounts,iotNull
+256,a thermostat records audio of owner which is sent to the local police,a thermostat,audio of owner,the local police,iotNull
+257,a thermostat records audio of owner which is sent to government intelligence agencies,a thermostat,audio of owner,government intelligence agencies,iotNull
+258,a thermostat records audio of owner which is sent to owner's doctor,a thermostat,audio of owner,owner's doctor,iotNull
+259,a thermostat records audio of owner which is sent to an Internet service provider,a thermostat,audio of owner,an Internet service provider,iotNull
+260,a thermostat records audio of owner which is sent to its manufacturer,a thermostat,audio of owner,its manufacturer,iotNull
+261,a thermostat records audio of owner which is sent to other devices in the home,a thermostat,audio of owner,other devices in the home,iotNull
+262,a thermostat records audio of owner which is sent to owner's immediate family,a thermostat,audio of owner,owner's immediate family,iotNull
+263,a thermostat records audio of owner which is sent to owner's social media accounts,a thermostat,audio of owner,owner's social media accounts,iotNull
+264,a thermostat records video of owner which is sent to the local police,a thermostat,video of owner,the local police,iotNull
+265,a thermostat records video of owner which is sent to government intelligence agencies,a thermostat,video of owner,government intelligence agencies,iotNull
+266,a thermostat records video of owner which is sent to owner's doctor,a thermostat,video of owner,owner's doctor,iotNull
+267,a thermostat records video of owner which is sent to an Internet service provider,a thermostat,video of owner,an Internet service provider,iotNull
+268,a thermostat records video of owner which is sent to its manufacturer,a thermostat,video of owner,its manufacturer,iotNull
+269,a thermostat records video of owner which is sent to other devices in the home,a thermostat,video of owner,other devices in the home,iotNull
+270,a thermostat records video of owner which is sent to owner's immediate family,a thermostat,video of owner,owner's immediate family,iotNull
+271,a thermostat records video of owner which is sent to owner's social media accounts,a thermostat,video of owner,owner's social media accounts,iotNull
+272,a thermostat records owner's heart rate which is sent to the local police,a thermostat,owner's heart rate,the local police,iotNull
+273,a thermostat records owner's heart rate which is sent to government intelligence agencies,a thermostat,owner's heart rate,government intelligence agencies,iotNull
+274,a thermostat records owner's heart rate which is sent to owner's doctor,a thermostat,owner's heart rate,owner's doctor,iotNull
+275,a thermostat records owner's heart rate which is sent to an Internet service provider,a thermostat,owner's heart rate,an Internet service provider,iotNull
+276,a thermostat records owner's heart rate which is sent to its manufacturer,a thermostat,owner's heart rate,its manufacturer,iotNull
+277,a thermostat records owner's heart rate which is sent to other devices in the home,a thermostat,owner's heart rate,other devices in the home,iotNull
+278,a thermostat records owner's heart rate which is sent to owner's immediate family,a thermostat,owner's heart rate,owner's immediate family,iotNull
+279,a thermostat records owner's heart rate which is sent to owner's social media accounts,a thermostat,owner's heart rate,owner's social media accounts,iotNull
+280,a thermostat records the times it is used which is sent to the local police,a thermostat,the times it is used,the local police,iotNull
+281,a thermostat records the times it is used which is sent to government intelligence agencies,a thermostat,the times it is used,government intelligence agencies,iotNull
+282,a thermostat records the times it is used which is sent to owner's doctor,a thermostat,the times it is used,owner's doctor,iotNull
+283,a thermostat records the times it is used which is sent to an Internet service provider,a thermostat,the times it is used,an Internet service provider,iotNull
+284,a thermostat records the times it is used which is sent to its manufacturer,a thermostat,the times it is used,its manufacturer,iotNull
+285,a thermostat records the times it is used which is sent to other devices in the home,a thermostat,the times it is used,other devices in the home,iotNull
+286,a thermostat records the times it is used which is sent to owner's immediate family,a thermostat,the times it is used,owner's immediate family,iotNull
+287,a thermostat records the times it is used which is sent to owner's social media accounts,a thermostat,the times it is used,owner's social media accounts,iotNull
+288,a fitness tracker records owner's location which is sent to the local police,a fitness tracker,owner's location,the local police,iotNull
+289,a fitness tracker records owner's location which is sent to government intelligence agencies,a fitness tracker,owner's location,government intelligence agencies,iotNull
+290,a fitness tracker records owner's location which is sent to owner's doctor,a fitness tracker,owner's location,owner's doctor,iotNull
+291,a fitness tracker records owner's location which is sent to an Internet service provider,a fitness tracker,owner's location,an Internet service provider,iotNull
+292,a fitness tracker records owner's location which is sent to its manufacturer,a fitness tracker,owner's location,its manufacturer,iotNull
+293,a fitness tracker records owner's location which is sent to other devices in the home,a fitness tracker,owner's location,other devices in the home,iotNull
+294,a fitness tracker records owner's location which is sent to owner's immediate family,a fitness tracker,owner's location,owner's immediate family,iotNull
+295,a fitness tracker records owner's location which is sent to owner's social media accounts,a fitness tracker,owner's location,owner's social media accounts,iotNull
+296,a fitness tracker records owner's eating habits which is sent to the local police,a fitness tracker,owner's eating habits,the local police,iotNull
+297,a fitness tracker records owner's eating habits which is sent to government intelligence agencies,a fitness tracker,owner's eating habits,government intelligence agencies,iotNull
+298,a fitness tracker records owner's eating habits which is sent to owner's doctor,a fitness tracker,owner's eating habits,owner's doctor,iotNull
+299,a fitness tracker records owner's eating habits which is sent to an Internet service provider,a fitness tracker,owner's eating habits,an Internet service provider,iotNull
+300,a fitness tracker records owner's eating habits which is sent to its manufacturer,a fitness tracker,owner's eating habits,its manufacturer,iotNull
+301,a fitness tracker records owner's eating habits which is sent to other devices in the home,a fitness tracker,owner's eating habits,other devices in the home,iotNull
+302,a fitness tracker records owner's eating habits which is sent to owner's immediate family,a fitness tracker,owner's eating habits,owner's immediate family,iotNull
+303,a fitness tracker records owner's eating habits which is sent to owner's social media accounts,a fitness tracker,owner's eating habits,owner's social media accounts,iotNull
+304,a fitness tracker records the times owner is home which is sent to the local police,a fitness tracker,the times owner is home,the local police,iotNull
+305,a fitness tracker records the times owner is home which is sent to government intelligence agencies,a fitness tracker,the times owner is home,government intelligence agencies,iotNull
+306,a fitness tracker records the times owner is home which is sent to owner's doctor,a fitness tracker,the times owner is home,owner's doctor,iotNull
+307,a fitness tracker records the times owner is home which is sent to an Internet service provider,a fitness tracker,the times owner is home,an Internet service provider,iotNull
+308,a fitness tracker records the times owner is home which is sent to its manufacturer,a fitness tracker,the times owner is home,its manufacturer,iotNull
+309,a fitness tracker records the times owner is home which is sent to other devices in the home,a fitness tracker,the times owner is home,other devices in the home,iotNull
+310,a fitness tracker records the times owner is home which is sent to owner's immediate family,a fitness tracker,the times owner is home,owner's immediate family,iotNull
+311,a fitness tracker records the times owner is home which is sent to owner's social media accounts,a fitness tracker,the times owner is home,owner's social media accounts,iotNull
+312,a fitness tracker records owner's exercise routine which is sent to the local police,a fitness tracker,owner's exercise routine,the local police,iotNull
+313,a fitness tracker records owner's exercise routine which is sent to government intelligence agencies,a fitness tracker,owner's exercise routine,government intelligence agencies,iotNull
+314,a fitness tracker records owner's exercise routine which is sent to owner's doctor,a fitness tracker,owner's exercise routine,owner's doctor,iotNull
+315,a fitness tracker records owner's exercise routine which is sent to an Internet service provider,a fitness tracker,owner's exercise routine,an Internet service provider,iotNull
+316,a fitness tracker records owner's exercise routine which is sent to its manufacturer,a fitness tracker,owner's exercise routine,its manufacturer,iotNull
+317,a fitness tracker records owner's exercise routine which is sent to other devices in the home,a fitness tracker,owner's exercise routine,other devices in the home,iotNull
+318,a fitness tracker records owner's exercise routine which is sent to owner's immediate family,a fitness tracker,owner's exercise routine,owner's immediate family,iotNull
+319,a fitness tracker records owner's exercise routine which is sent to owner's social media accounts,a fitness tracker,owner's exercise routine,owner's social media accounts,iotNull
+320,a fitness tracker records owner's sleeping habits which is sent to the local police,a fitness tracker,owner's sleeping habits,the local police,iotNull
+321,a fitness tracker records owner's sleeping habits which is sent to government intelligence agencies,a fitness tracker,owner's sleeping habits,government intelligence agencies,iotNull
+322,a fitness tracker records owner's sleeping habits which is sent to owner's doctor,a fitness tracker,owner's sleeping habits,owner's doctor,iotNull
+323,a fitness tracker records owner's sleeping habits which is sent to an Internet service provider,a fitness tracker,owner's sleeping habits,an Internet service provider,iotNull
+324,a fitness tracker records owner's sleeping habits which is sent to its manufacturer,a fitness tracker,owner's sleeping habits,its manufacturer,iotNull
+325,a fitness tracker records owner's sleeping habits which is sent to other devices in the home,a fitness tracker,owner's sleeping habits,other devices in the home,iotNull
+326,a fitness tracker records owner's sleeping habits which is sent to owner's immediate family,a fitness tracker,owner's sleeping habits,owner's immediate family,iotNull
+327,a fitness tracker records owner's sleeping habits which is sent to owner's social media accounts,a fitness tracker,owner's sleeping habits,owner's social media accounts,iotNull
+328,a fitness tracker records audio of owner which is sent to the local police,a fitness tracker,audio of owner,the local police,iotNull
+329,a fitness tracker records audio of owner which is sent to government intelligence agencies,a fitness tracker,audio of owner,government intelligence agencies,iotNull
+330,a fitness tracker records audio of owner which is sent to owner's doctor,a fitness tracker,audio of owner,owner's doctor,iotNull
+331,a fitness tracker records audio of owner which is sent to an Internet service provider,a fitness tracker,audio of owner,an Internet service provider,iotNull
+332,a fitness tracker records audio of owner which is sent to its manufacturer,a fitness tracker,audio of owner,its manufacturer,iotNull
+333,a fitness tracker records audio of owner which is sent to other devices in the home,a fitness tracker,audio of owner,other devices in the home,iotNull
+334,a fitness tracker records audio of owner which is sent to owner's immediate family,a fitness tracker,audio of owner,owner's immediate family,iotNull
+335,a fitness tracker records audio of owner which is sent to owner's social media accounts,a fitness tracker,audio of owner,owner's social media accounts,iotNull
+336,a fitness tracker records video of owner which is sent to the local police,a fitness tracker,video of owner,the local police,iotNull
+337,a fitness tracker records video of owner which is sent to government intelligence agencies,a fitness tracker,video of owner,government intelligence agencies,iotNull
+338,a fitness tracker records video of owner which is sent to owner's doctor,a fitness tracker,video of owner,owner's doctor,iotNull
+339,a fitness tracker records video of owner which is sent to an Internet service provider,a fitness tracker,video of owner,an Internet service provider,iotNull
+340,a fitness tracker records video of owner which is sent to its manufacturer,a fitness tracker,video of owner,its manufacturer,iotNull
+341,a fitness tracker records video of owner which is sent to other devices in the home,a fitness tracker,video of owner,other devices in the home,iotNull
+342,a fitness tracker records video of owner which is sent to owner's immediate family,a fitness tracker,video of owner,owner's immediate family,iotNull
+343,a fitness tracker records video of owner which is sent to owner's social media accounts,a fitness tracker,video of owner,owner's social media accounts,iotNull
+344,a fitness tracker records owner's heart rate which is sent to the local police,a fitness tracker,owner's heart rate,the local police,iotNull
+345,a fitness tracker records owner's heart rate which is sent to government intelligence agencies,a fitness tracker,owner's heart rate,government intelligence agencies,iotNull
+346,a fitness tracker records owner's heart rate which is sent to owner's doctor,a fitness tracker,owner's heart rate,owner's doctor,iotNull
+347,a fitness tracker records owner's heart rate which is sent to an Internet service provider,a fitness tracker,owner's heart rate,an Internet service provider,iotNull
+348,a fitness tracker records owner's heart rate which is sent to its manufacturer,a fitness tracker,owner's heart rate,its manufacturer,iotNull
+349,a fitness tracker records owner's heart rate which is sent to other devices in the home,a fitness tracker,owner's heart rate,other devices in the home,iotNull
+350,a fitness tracker records owner's heart rate which is sent to owner's immediate family,a fitness tracker,owner's heart rate,owner's immediate family,iotNull
+351,a fitness tracker records owner's heart rate which is sent to owner's social media accounts,a fitness tracker,owner's heart rate,owner's social media accounts,iotNull
+352,a fitness tracker records the times it is used which is sent to the local police,a fitness tracker,the times it is used,the local police,iotNull
+353,a fitness tracker records the times it is used which is sent to government intelligence agencies,a fitness tracker,the times it is used,government intelligence agencies,iotNull
+354,a fitness tracker records the times it is used which is sent to owner's doctor,a fitness tracker,the times it is used,owner's doctor,iotNull
+355,a fitness tracker records the times it is used which is sent to an Internet service provider,a fitness tracker,the times it is used,an Internet service provider,iotNull
+356,a fitness tracker records the times it is used which is sent to its manufacturer,a fitness tracker,the times it is used,its manufacturer,iotNull
+357,a fitness tracker records the times it is used which is sent to other devices in the home,a fitness tracker,the times it is used,other devices in the home,iotNull
+358,a fitness tracker records the times it is used which is sent to owner's immediate family,a fitness tracker,the times it is used,owner's immediate family,iotNull
+359,a fitness tracker records the times it is used which is sent to owner's social media accounts,a fitness tracker,the times it is used,owner's social media accounts,iotNull
+360,a refrigerator records owner's location which is sent to the local police,a refrigerator,owner's location,the local police,iotNull
+361,a refrigerator records owner's location which is sent to government intelligence agencies,a refrigerator,owner's location,government intelligence agencies,iotNull
+362,a refrigerator records owner's location which is sent to owner's doctor,a refrigerator,owner's location,owner's doctor,iotNull
+363,a refrigerator records owner's location which is sent to an Internet service provider,a refrigerator,owner's location,an Internet service provider,iotNull
+364,a refrigerator records owner's location which is sent to its manufacturer,a refrigerator,owner's location,its manufacturer,iotNull
+365,a refrigerator records owner's location which is sent to other devices in the home,a refrigerator,owner's location,other devices in the home,iotNull
+366,a refrigerator records owner's location which is sent to owner's immediate family,a refrigerator,owner's location,owner's immediate family,iotNull
+367,a refrigerator records owner's location which is sent to owner's social media accounts,a refrigerator,owner's location,owner's social media accounts,iotNull
+368,a refrigerator records owner's eating habits which is sent to the local police,a refrigerator,owner's eating habits,the local police,iotNull
+369,a refrigerator records owner's eating habits which is sent to government intelligence agencies,a refrigerator,owner's eating habits,government intelligence agencies,iotNull
+370,a refrigerator records owner's eating habits which is sent to owner's doctor,a refrigerator,owner's eating habits,owner's doctor,iotNull
+371,a refrigerator records owner's eating habits which is sent to an Internet service provider,a refrigerator,owner's eating habits,an Internet service provider,iotNull
+372,a refrigerator records owner's eating habits which is sent to its manufacturer,a refrigerator,owner's eating habits,its manufacturer,iotNull
+373,a refrigerator records owner's eating habits which is sent to other devices in the home,a refrigerator,owner's eating habits,other devices in the home,iotNull
+374,a refrigerator records owner's eating habits which is sent to owner's immediate family,a refrigerator,owner's eating habits,owner's immediate family,iotNull
+375,a refrigerator records owner's eating habits which is sent to owner's social media accounts,a refrigerator,owner's eating habits,owner's social media accounts,iotNull
+376,a refrigerator records the times owner is home which is sent to the local police,a refrigerator,the times owner is home,the local police,iotNull
+377,a refrigerator records the times owner is home which is sent to government intelligence agencies,a refrigerator,the times owner is home,government intelligence agencies,iotNull
+378,a refrigerator records the times owner is home which is sent to owner's doctor,a refrigerator,the times owner is home,owner's doctor,iotNull
+379,a refrigerator records the times owner is home which is sent to an Internet service provider,a refrigerator,the times owner is home,an Internet service provider,iotNull
+380,a refrigerator records the times owner is home which is sent to its manufacturer,a refrigerator,the times owner is home,its manufacturer,iotNull
+381,a refrigerator records the times owner is home which is sent to other devices in the home,a refrigerator,the times owner is home,other devices in the home,iotNull
+382,a refrigerator records the times owner is home which is sent to owner's immediate family,a refrigerator,the times owner is home,owner's immediate family,iotNull
+383,a refrigerator records the times owner is home which is sent to owner's social media accounts,a refrigerator,the times owner is home,owner's social media accounts,iotNull
+384,a refrigerator records owner's exercise routine which is sent to the local police,a refrigerator,owner's exercise routine,the local police,iotNull
+385,a refrigerator records owner's exercise routine which is sent to government intelligence agencies,a refrigerator,owner's exercise routine,government intelligence agencies,iotNull
+386,a refrigerator records owner's exercise routine which is sent to owner's doctor,a refrigerator,owner's exercise routine,owner's doctor,iotNull
+387,a refrigerator records owner's exercise routine which is sent to an Internet service provider,a refrigerator,owner's exercise routine,an Internet service provider,iotNull
+388,a refrigerator records owner's exercise routine which is sent to its manufacturer,a refrigerator,owner's exercise routine,its manufacturer,iotNull
+389,a refrigerator records owner's exercise routine which is sent to other devices in the home,a refrigerator,owner's exercise routine,other devices in the home,iotNull
+390,a refrigerator records owner's exercise routine which is sent to owner's immediate family,a refrigerator,owner's exercise routine,owner's immediate family,iotNull
+391,a refrigerator records owner's exercise routine which is sent to owner's social media accounts,a refrigerator,owner's exercise routine,owner's social media accounts,iotNull
+392,a refrigerator records owner's sleeping habits which is sent to the local police,a refrigerator,owner's sleeping habits,the local police,iotNull
+393,a refrigerator records owner's sleeping habits which is sent to government intelligence agencies,a refrigerator,owner's sleeping habits,government intelligence agencies,iotNull
+394,a refrigerator records owner's sleeping habits which is sent to owner's doctor,a refrigerator,owner's sleeping habits,owner's doctor,iotNull
+395,a refrigerator records owner's sleeping habits which is sent to an Internet service provider,a refrigerator,owner's sleeping habits,an Internet service provider,iotNull
+396,a refrigerator records owner's sleeping habits which is sent to its manufacturer,a refrigerator,owner's sleeping habits,its manufacturer,iotNull
+397,a refrigerator records owner's sleeping habits which is sent to other devices in the home,a refrigerator,owner's sleeping habits,other devices in the home,iotNull
+398,a refrigerator records owner's sleeping habits which is sent to owner's immediate family,a refrigerator,owner's sleeping habits,owner's immediate family,iotNull
+399,a refrigerator records owner's sleeping habits which is sent to owner's social media accounts,a refrigerator,owner's sleeping habits,owner's social media accounts,iotNull
+400,a refrigerator records audio of owner which is sent to the local police,a refrigerator,audio of owner,the local police,iotNull
+401,a refrigerator records audio of owner which is sent to government intelligence agencies,a refrigerator,audio of owner,government intelligence agencies,iotNull
+402,a refrigerator records audio of owner which is sent to owner's doctor,a refrigerator,audio of owner,owner's doctor,iotNull
+403,a refrigerator records audio of owner which is sent to an Internet service provider,a refrigerator,audio of owner,an Internet service provider,iotNull
+404,a refrigerator records audio of owner which is sent to its manufacturer,a refrigerator,audio of owner,its manufacturer,iotNull
+405,a refrigerator records audio of owner which is sent to other devices in the home,a refrigerator,audio of owner,other devices in the home,iotNull
+406,a refrigerator records audio of owner which is sent to owner's immediate family,a refrigerator,audio of owner,owner's immediate family,iotNull
+407,a refrigerator records audio of owner which is sent to owner's social media accounts,a refrigerator,audio of owner,owner's social media accounts,iotNull
+408,a refrigerator records video of owner which is sent to the local police,a refrigerator,video of owner,the local police,iotNull
+409,a refrigerator records video of owner which is sent to government intelligence agencies,a refrigerator,video of owner,government intelligence agencies,iotNull
+410,a refrigerator records video of owner which is sent to owner's doctor,a refrigerator,video of owner,owner's doctor,iotNull
+411,a refrigerator records video of owner which is sent to an Internet service provider,a refrigerator,video of owner,an Internet service provider,iotNull
+412,a refrigerator records video of owner which is sent to its manufacturer,a refrigerator,video of owner,its manufacturer,iotNull
+413,a refrigerator records video of owner which is sent to other devices in the home,a refrigerator,video of owner,other devices in the home,iotNull
+414,a refrigerator records video of owner which is sent to owner's immediate family,a refrigerator,video of owner,owner's immediate family,iotNull
+415,a refrigerator records video of owner which is sent to owner's social media accounts,a refrigerator,video of owner,owner's social media accounts,iotNull
+416,a refrigerator records owner's heart rate which is sent to the local police,a refrigerator,owner's heart rate,the local police,iotNull
+417,a refrigerator records owner's heart rate which is sent to government intelligence agencies,a refrigerator,owner's heart rate,government intelligence agencies,iotNull
+418,a refrigerator records owner's heart rate which is sent to owner's doctor,a refrigerator,owner's heart rate,owner's doctor,iotNull
+419,a refrigerator records owner's heart rate which is sent to an Internet service provider,a refrigerator,owner's heart rate,an Internet service provider,iotNull
+420,a refrigerator records owner's heart rate which is sent to its manufacturer,a refrigerator,owner's heart rate,its manufacturer,iotNull
+421,a refrigerator records owner's heart rate which is sent to other devices in the home,a refrigerator,owner's heart rate,other devices in the home,iotNull
+422,a refrigerator records owner's heart rate which is sent to owner's immediate family,a refrigerator,owner's heart rate,owner's immediate family,iotNull
+423,a refrigerator records owner's heart rate which is sent to owner's social media accounts,a refrigerator,owner's heart rate,owner's social media accounts,iotNull
+424,a refrigerator records the times it is used which is sent to the local police,a refrigerator,the times it is used,the local police,iotNull
+425,a refrigerator records the times it is used which is sent to government intelligence agencies,a refrigerator,the times it is used,government intelligence agencies,iotNull
+426,a refrigerator records the times it is used which is sent to owner's doctor,a refrigerator,the times it is used,owner's doctor,iotNull
+427,a refrigerator records the times it is used which is sent to an Internet service provider,a refrigerator,the times it is used,an Internet service provider,iotNull
+428,a refrigerator records the times it is used which is sent to its manufacturer,a refrigerator,the times it is used,its manufacturer,iotNull
+429,a refrigerator records the times it is used which is sent to other devices in the home,a refrigerator,the times it is used,other devices in the home,iotNull
+430,a refrigerator records the times it is used which is sent to owner's immediate family,a refrigerator,the times it is used,owner's immediate family,iotNull
+431,a refrigerator records the times it is used which is sent to owner's social media accounts,a refrigerator,the times it is used,owner's social media accounts,iotNull
+432,a power meter records owner's location which is sent to the local police,a power meter,owner's location,the local police,iotNull
+433,a power meter records owner's location which is sent to government intelligence agencies,a power meter,owner's location,government intelligence agencies,iotNull
+434,a power meter records owner's location which is sent to owner's doctor,a power meter,owner's location,owner's doctor,iotNull
+435,a power meter records owner's location which is sent to an Internet service provider,a power meter,owner's location,an Internet service provider,iotNull
+436,a power meter records owner's location which is sent to its manufacturer,a power meter,owner's location,its manufacturer,iotNull
+437,a power meter records owner's location which is sent to other devices in the home,a power meter,owner's location,other devices in the home,iotNull
+438,a power meter records owner's location which is sent to owner's immediate family,a power meter,owner's location,owner's immediate family,iotNull
+439,a power meter records owner's location which is sent to owner's social media accounts,a power meter,owner's location,owner's social media accounts,iotNull
+440,a power meter records owner's eating habits which is sent to the local police,a power meter,owner's eating habits,the local police,iotNull
+441,a power meter records owner's eating habits which is sent to government intelligence agencies,a power meter,owner's eating habits,government intelligence agencies,iotNull
+442,a power meter records owner's eating habits which is sent to owner's doctor,a power meter,owner's eating habits,owner's doctor,iotNull
+443,a power meter records owner's eating habits which is sent to an Internet service provider,a power meter,owner's eating habits,an Internet service provider,iotNull
+444,a power meter records owner's eating habits which is sent to its manufacturer,a power meter,owner's eating habits,its manufacturer,iotNull
+445,a power meter records owner's eating habits which is sent to other devices in the home,a power meter,owner's eating habits,other devices in the home,iotNull
+446,a power meter records owner's eating habits which is sent to owner's immediate family,a power meter,owner's eating habits,owner's immediate family,iotNull
+447,a power meter records owner's eating habits which is sent to owner's social media accounts,a power meter,owner's eating habits,owner's social media accounts,iotNull
+448,a power meter records the times owner is home which is sent to the local police,a power meter,the times owner is home,the local police,iotNull
+449,a power meter records the times owner is home which is sent to government intelligence agencies,a power meter,the times owner is home,government intelligence agencies,iotNull
+450,a power meter records the times owner is home which is sent to owner's doctor,a power meter,the times owner is home,owner's doctor,iotNull
+451,a power meter records the times owner is home which is sent to an Internet service provider,a power meter,the times owner is home,an Internet service provider,iotNull
+452,a power meter records the times owner is home which is sent to its manufacturer,a power meter,the times owner is home,its manufacturer,iotNull
+453,a power meter records the times owner is home which is sent to other devices in the home,a power meter,the times owner is home,other devices in the home,iotNull
+454,a power meter records the times owner is home which is sent to owner's immediate family,a power meter,the times owner is home,owner's immediate family,iotNull
+455,a power meter records the times owner is home which is sent to owner's social media accounts,a power meter,the times owner is home,owner's social media accounts,iotNull
+456,a power meter records owner's exercise routine which is sent to the local police,a power meter,owner's exercise routine,the local police,iotNull
+457,a power meter records owner's exercise routine which is sent to government intelligence agencies,a power meter,owner's exercise routine,government intelligence agencies,iotNull
+458,a power meter records owner's exercise routine which is sent to owner's doctor,a power meter,owner's exercise routine,owner's doctor,iotNull
+459,a power meter records owner's exercise routine which is sent to an Internet service provider,a power meter,owner's exercise routine,an Internet service provider,iotNull
+460,a power meter records owner's exercise routine which is sent to its manufacturer,a power meter,owner's exercise routine,its manufacturer,iotNull
+461,a power meter records owner's exercise routine which is sent to other devices in the home,a power meter,owner's exercise routine,other devices in the home,iotNull
+462,a power meter records owner's exercise routine which is sent to owner's immediate family,a power meter,owner's exercise routine,owner's immediate family,iotNull
+463,a power meter records owner's exercise routine which is sent to owner's social media accounts,a power meter,owner's exercise routine,owner's social media accounts,iotNull
+464,a power meter records owner's sleeping habits which is sent to the local police,a power meter,owner's sleeping habits,the local police,iotNull
+465,a power meter records owner's sleeping habits which is sent to government intelligence agencies,a power meter,owner's sleeping habits,government intelligence agencies,iotNull
+466,a power meter records owner's sleeping habits which is sent to owner's doctor,a power meter,owner's sleeping habits,owner's doctor,iotNull
+467,a power meter records owner's sleeping habits which is sent to an Internet service provider,a power meter,owner's sleeping habits,an Internet service provider,iotNull
+468,a power meter records owner's sleeping habits which is sent to its manufacturer,a power meter,owner's sleeping habits,its manufacturer,iotNull
+469,a power meter records owner's sleeping habits which is sent to other devices in the home,a power meter,owner's sleeping habits,other devices in the home,iotNull
+470,a power meter records owner's sleeping habits which is sent to owner's immediate family,a power meter,owner's sleeping habits,owner's immediate family,iotNull
+471,a power meter records owner's sleeping habits which is sent to owner's social media accounts,a power meter,owner's sleeping habits,owner's social media accounts,iotNull
+472,a power meter records audio of owner which is sent to the local police,a power meter,audio of owner,the local police,iotNull
+473,a power meter records audio of owner which is sent to government intelligence agencies,a power meter,audio of owner,government intelligence agencies,iotNull
+474,a power meter records audio of owner which is sent to owner's doctor,a power meter,audio of owner,owner's doctor,iotNull
+475,a power meter records audio of owner which is sent to an Internet service provider,a power meter,audio of owner,an Internet service provider,iotNull
+476,a power meter records audio of owner which is sent to its manufacturer,a power meter,audio of owner,its manufacturer,iotNull
+477,a power meter records audio of owner which is sent to other devices in the home,a power meter,audio of owner,other devices in the home,iotNull
+478,a power meter records audio of owner which is sent to owner's immediate family,a power meter,audio of owner,owner's immediate family,iotNull
+479,a power meter records audio of owner which is sent to owner's social media accounts,a power meter,audio of owner,owner's social media accounts,iotNull
+480,a power meter records video of owner which is sent to the local police,a power meter,video of owner,the local police,iotNull
+481,a power meter records video of owner which is sent to government intelligence agencies,a power meter,video of owner,government intelligence agencies,iotNull
+482,a power meter records video of owner which is sent to owner's doctor,a power meter,video of owner,owner's doctor,iotNull
+483,a power meter records video of owner which is sent to an Internet service provider,a power meter,video of owner,an Internet service provider,iotNull
+484,a power meter records video of owner which is sent to its manufacturer,a power meter,video of owner,its manufacturer,iotNull
+485,a power meter records video of owner which is sent to other devices in the home,a power meter,video of owner,other devices in the home,iotNull
+486,a power meter records video of owner which is sent to owner's immediate family,a power meter,video of owner,owner's immediate family,iotNull
+487,a power meter records video of owner which is sent to owner's social media accounts,a power meter,video of owner,owner's social media accounts,iotNull
+488,a power meter records owner's heart rate which is sent to the local police,a power meter,owner's heart rate,the local police,iotNull
+489,a power meter records owner's heart rate which is sent to government intelligence agencies,a power meter,owner's heart rate,government intelligence agencies,iotNull
+490,a power meter records owner's heart rate which is sent to owner's doctor,a power meter,owner's heart rate,owner's doctor,iotNull
+491,a power meter records owner's heart rate which is sent to an Internet service provider,a power meter,owner's heart rate,an Internet service provider,iotNull
+492,a power meter records owner's heart rate which is sent to its manufacturer,a power meter,owner's heart rate,its manufacturer,iotNull
+493,a power meter records owner's heart rate which is sent to other devices in the home,a power meter,owner's heart rate,other devices in the home,iotNull
+494,a power meter records owner's heart rate which is sent to owner's immediate family,a power meter,owner's heart rate,owner's immediate family,iotNull
+495,a power meter records owner's heart rate which is sent to owner's social media accounts,a power meter,owner's heart rate,owner's social media accounts,iotNull
+496,a power meter records the times it is used which is sent to the local police,a power meter,the times it is used,the local police,iotNull
+497,a power meter records the times it is used which is sent to government intelligence agencies,a power meter,the times it is used,government intelligence agencies,iotNull
+498,a power meter records the times it is used which is sent to owner's doctor,a power meter,the times it is used,owner's doctor,iotNull
+499,a power meter records the times it is used which is sent to an Internet service provider,a power meter,the times it is used,an Internet service provider,iotNull
+500,a power meter records the times it is used which is sent to its manufacturer,a power meter,the times it is used,its manufacturer,iotNull
+501,a power meter records the times it is used which is sent to other devices in the home,a power meter,the times it is used,other devices in the home,iotNull
+502,a power meter records the times it is used which is sent to owner's immediate family,a power meter,the times it is used,owner's immediate family,iotNull
+503,a power meter records the times it is used which is sent to owner's social media accounts,a power meter,the times it is used,owner's social media accounts,iotNull
+504,"a personal assistant (e.g., Siri, Amazon echo) records owner's location which is sent to the local police","a personal assistant (e.g., Siri, Amazon echo)",owner's location,the local police,iotNull
+505,"a personal assistant (e.g., Siri, Amazon echo) records owner's location which is sent to government intelligence agencies","a personal assistant (e.g., Siri, Amazon echo)",owner's location,government intelligence agencies,iotNull
+506,"a personal assistant (e.g., Siri, Amazon echo) records owner's location which is sent to owner's doctor","a personal assistant (e.g., Siri, Amazon echo)",owner's location,owner's doctor,iotNull
+507,"a personal assistant (e.g., Siri, Amazon echo) records owner's location which is sent to an Internet service provider","a personal assistant (e.g., Siri, Amazon echo)",owner's location,an Internet service provider,iotNull
+508,"a personal assistant (e.g., Siri, Amazon echo) records owner's location which is sent to its manufacturer","a personal assistant (e.g., Siri, Amazon echo)",owner's location,its manufacturer,iotNull
+509,"a personal assistant (e.g., Siri, Amazon echo) records owner's location which is sent to other devices in the home","a personal assistant (e.g., Siri, Amazon echo)",owner's location,other devices in the home,iotNull
+510,"a personal assistant (e.g., Siri, Amazon echo) records owner's location which is sent to owner's immediate family","a personal assistant (e.g., Siri, Amazon echo)",owner's location,owner's immediate family,iotNull
+511,"a personal assistant (e.g., Siri, Amazon echo) records owner's location which is sent to owner's social media accounts","a personal assistant (e.g., Siri, Amazon echo)",owner's location,owner's social media accounts,iotNull
+512,"a personal assistant (e.g., Siri, Amazon echo) records owner's eating habits which is sent to the local police","a personal assistant (e.g., Siri, Amazon echo)",owner's eating habits,the local police,iotNull
+513,"a personal assistant (e.g., Siri, Amazon echo) records owner's eating habits which is sent to government intelligence agencies","a personal assistant (e.g., Siri, Amazon echo)",owner's eating habits,government intelligence agencies,iotNull
+514,"a personal assistant (e.g., Siri, Amazon echo) records owner's eating habits which is sent to owner's doctor","a personal assistant (e.g., Siri, Amazon echo)",owner's eating habits,owner's doctor,iotNull
+515,"a personal assistant (e.g., Siri, Amazon echo) records owner's eating habits which is sent to an Internet service provider","a personal assistant (e.g., Siri, Amazon echo)",owner's eating habits,an Internet service provider,iotNull
+516,"a personal assistant (e.g., Siri, Amazon echo) records owner's eating habits which is sent to its manufacturer","a personal assistant (e.g., Siri, Amazon echo)",owner's eating habits,its manufacturer,iotNull
+517,"a personal assistant (e.g., Siri, Amazon echo) records owner's eating habits which is sent to other devices in the home","a personal assistant (e.g., Siri, Amazon echo)",owner's eating habits,other devices in the home,iotNull
+518,"a personal assistant (e.g., Siri, Amazon echo) records owner's eating habits which is sent to owner's immediate family","a personal assistant (e.g., Siri, Amazon echo)",owner's eating habits,owner's immediate family,iotNull
+519,"a personal assistant (e.g., Siri, Amazon echo) records owner's eating habits which is sent to owner's social media accounts","a personal assistant (e.g., Siri, Amazon echo)",owner's eating habits,owner's social media accounts,iotNull
+520,"a personal assistant (e.g., Siri, Amazon echo) records the times owner is home which is sent to the local police","a personal assistant (e.g., Siri, Amazon echo)",the times owner is home,the local police,iotNull
+521,"a personal assistant (e.g., Siri, Amazon echo) records the times owner is home which is sent to government intelligence agencies","a personal assistant (e.g., Siri, Amazon echo)",the times owner is home,government intelligence agencies,iotNull
+522,"a personal assistant (e.g., Siri, Amazon echo) records the times owner is home which is sent to owner's doctor","a personal assistant (e.g., Siri, Amazon echo)",the times owner is home,owner's doctor,iotNull
+523,"a personal assistant (e.g., Siri, Amazon echo) records the times owner is home which is sent to an Internet service provider","a personal assistant (e.g., Siri, Amazon echo)",the times owner is home,an Internet service provider,iotNull
+524,"a personal assistant (e.g., Siri, Amazon echo) records the times owner is home which is sent to its manufacturer","a personal assistant (e.g., Siri, Amazon echo)",the times owner is home,its manufacturer,iotNull
+525,"a personal assistant (e.g., Siri, Amazon echo) records the times owner is home which is sent to other devices in the home","a personal assistant (e.g., Siri, Amazon echo)",the times owner is home,other devices in the home,iotNull
+526,"a personal assistant (e.g., Siri, Amazon echo) records the times owner is home which is sent to owner's immediate family","a personal assistant (e.g., Siri, Amazon echo)",the times owner is home,owner's immediate family,iotNull
+527,"a personal assistant (e.g., Siri, Amazon echo) records the times owner is home which is sent to owner's social media accounts","a personal assistant (e.g., Siri, Amazon echo)",the times owner is home,owner's social media accounts,iotNull
+528,"a personal assistant (e.g., Siri, Amazon echo) records owner's exercise routine which is sent to the local police","a personal assistant (e.g., Siri, Amazon echo)",owner's exercise routine,the local police,iotNull
+529,"a personal assistant (e.g., Siri, Amazon echo) records owner's exercise routine which is sent to government intelligence agencies","a personal assistant (e.g., Siri, Amazon echo)",owner's exercise routine,government intelligence agencies,iotNull
+530,"a personal assistant (e.g., Siri, Amazon echo) records owner's exercise routine which is sent to owner's doctor","a personal assistant (e.g., Siri, Amazon echo)",owner's exercise routine,owner's doctor,iotNull
+531,"a personal assistant (e.g., Siri, Amazon echo) records owner's exercise routine which is sent to an Internet service provider","a personal assistant (e.g., Siri, Amazon echo)",owner's exercise routine,an Internet service provider,iotNull
+532,"a personal assistant (e.g., Siri, Amazon echo) records owner's exercise routine which is sent to its manufacturer","a personal assistant (e.g., Siri, Amazon echo)",owner's exercise routine,its manufacturer,iotNull
+533,"a personal assistant (e.g., Siri, Amazon echo) records owner's exercise routine which is sent to other devices in the home","a personal assistant (e.g., Siri, Amazon echo)",owner's exercise routine,other devices in the home,iotNull
+534,"a personal assistant (e.g., Siri, Amazon echo) records owner's exercise routine which is sent to owner's immediate family","a personal assistant (e.g., Siri, Amazon echo)",owner's exercise routine,owner's immediate family,iotNull
+535,"a personal assistant (e.g., Siri, Amazon echo) records owner's exercise routine which is sent to owner's social media accounts","a personal assistant (e.g., Siri, Amazon echo)",owner's exercise routine,owner's social media accounts,iotNull
+536,"a personal assistant (e.g., Siri, Amazon echo) records owner's sleeping habits which is sent to the local police","a personal assistant (e.g., Siri, Amazon echo)",owner's sleeping habits,the local police,iotNull
+537,"a personal assistant (e.g., Siri, Amazon echo) records owner's sleeping habits which is sent to government intelligence agencies","a personal assistant (e.g., Siri, Amazon echo)",owner's sleeping habits,government intelligence agencies,iotNull
+538,"a personal assistant (e.g., Siri, Amazon echo) records owner's sleeping habits which is sent to owner's doctor","a personal assistant (e.g., Siri, Amazon echo)",owner's sleeping habits,owner's doctor,iotNull
+539,"a personal assistant (e.g., Siri, Amazon echo) records owner's sleeping habits which is sent to an Internet service provider","a personal assistant (e.g., Siri, Amazon echo)",owner's sleeping habits,an Internet service provider,iotNull
+540,"a personal assistant (e.g., Siri, Amazon echo) records owner's sleeping habits which is sent to its manufacturer","a personal assistant (e.g., Siri, Amazon echo)",owner's sleeping habits,its manufacturer,iotNull
+541,"a personal assistant (e.g., Siri, Amazon echo) records owner's sleeping habits which is sent to other devices in the home","a personal assistant (e.g., Siri, Amazon echo)",owner's sleeping habits,other devices in the home,iotNull
+542,"a personal assistant (e.g., Siri, Amazon echo) records owner's sleeping habits which is sent to owner's immediate family","a personal assistant (e.g., Siri, Amazon echo)",owner's sleeping habits,owner's immediate family,iotNull
+543,"a personal assistant (e.g., Siri, Amazon echo) records owner's sleeping habits which is sent to owner's social media accounts","a personal assistant (e.g., Siri, Amazon echo)",owner's sleeping habits,owner's social media accounts,iotNull
+544,"a personal assistant (e.g., Siri, Amazon echo) records audio of owner which is sent to the local police","a personal assistant (e.g., Siri, Amazon echo)",audio of owner,the local police,iotNull
+545,"a personal assistant (e.g., Siri, Amazon echo) records audio of owner which is sent to government intelligence agencies","a personal assistant (e.g., Siri, Amazon echo)",audio of owner,government intelligence agencies,iotNull
+546,"a personal assistant (e.g., Siri, Amazon echo) records audio of owner which is sent to owner's doctor","a personal assistant (e.g., Siri, Amazon echo)",audio of owner,owner's doctor,iotNull
+547,"a personal assistant (e.g., Siri, Amazon echo) records audio of owner which is sent to an Internet service provider","a personal assistant (e.g., Siri, Amazon echo)",audio of owner,an Internet service provider,iotNull
+548,"a personal assistant (e.g., Siri, Amazon echo) records audio of owner which is sent to its manufacturer","a personal assistant (e.g., Siri, Amazon echo)",audio of owner,its manufacturer,iotNull
+549,"a personal assistant (e.g., Siri, Amazon echo) records audio of owner which is sent to other devices in the home","a personal assistant (e.g., Siri, Amazon echo)",audio of owner,other devices in the home,iotNull
+550,"a personal assistant (e.g., Siri, Amazon echo) records audio of owner which is sent to owner's immediate family","a personal assistant (e.g., Siri, Amazon echo)",audio of owner,owner's immediate family,iotNull
+551,"a personal assistant (e.g., Siri, Amazon echo) records audio of owner which is sent to owner's social media accounts","a personal assistant (e.g., Siri, Amazon echo)",audio of owner,owner's social media accounts,iotNull
+552,"a personal assistant (e.g., Siri, Amazon echo) records video of owner which is sent to the local police","a personal assistant (e.g., Siri, Amazon echo)",video of owner,the local police,iotNull
+553,"a personal assistant (e.g., Siri, Amazon echo) records video of owner which is sent to government intelligence agencies","a personal assistant (e.g., Siri, Amazon echo)",video of owner,government intelligence agencies,iotNull
+554,"a personal assistant (e.g., Siri, Amazon echo) records video of owner which is sent to owner's doctor","a personal assistant (e.g., Siri, Amazon echo)",video of owner,owner's doctor,iotNull
+555,"a personal assistant (e.g., Siri, Amazon echo) records video of owner which is sent to an Internet service provider","a personal assistant (e.g., Siri, Amazon echo)",video of owner,an Internet service provider,iotNull
+556,"a personal assistant (e.g., Siri, Amazon echo) records video of owner which is sent to its manufacturer","a personal assistant (e.g., Siri, Amazon echo)",video of owner,its manufacturer,iotNull
+557,"a personal assistant (e.g., Siri, Amazon echo) records video of owner which is sent to other devices in the home","a personal assistant (e.g., Siri, Amazon echo)",video of owner,other devices in the home,iotNull
+558,"a personal assistant (e.g., Siri, Amazon echo) records video of owner which is sent to owner's immediate family","a personal assistant (e.g., Siri, Amazon echo)",video of owner,owner's immediate family,iotNull
+559,"a personal assistant (e.g., Siri, Amazon echo) records video of owner which is sent to owner's social media accounts","a personal assistant (e.g., Siri, Amazon echo)",video of owner,owner's social media accounts,iotNull
+560,"a personal assistant (e.g., Siri, Amazon echo) records owner's heart rate which is sent to the local police","a personal assistant (e.g., Siri, Amazon echo)",owner's heart rate,the local police,iotNull
+561,"a personal assistant (e.g., Siri, Amazon echo) records owner's heart rate which is sent to government intelligence agencies","a personal assistant (e.g., Siri, Amazon echo)",owner's heart rate,government intelligence agencies,iotNull
+562,"a personal assistant (e.g., Siri, Amazon echo) records owner's heart rate which is sent to owner's doctor","a personal assistant (e.g., Siri, Amazon echo)",owner's heart rate,owner's doctor,iotNull
+563,"a personal assistant (e.g., Siri, Amazon echo) records owner's heart rate which is sent to an Internet service provider","a personal assistant (e.g., Siri, Amazon echo)",owner's heart rate,an Internet service provider,iotNull
+564,"a personal assistant (e.g., Siri, Amazon echo) records owner's heart rate which is sent to its manufacturer","a personal assistant (e.g., Siri, Amazon echo)",owner's heart rate,its manufacturer,iotNull
+565,"a personal assistant (e.g., Siri, Amazon echo) records owner's heart rate which is sent to other devices in the home","a personal assistant (e.g., Siri, Amazon echo)",owner's heart rate,other devices in the home,iotNull
+566,"a personal assistant (e.g., Siri, Amazon echo) records owner's heart rate which is sent to owner's immediate family","a personal assistant (e.g., Siri, Amazon echo)",owner's heart rate,owner's immediate family,iotNull
+567,"a personal assistant (e.g., Siri, Amazon echo) records owner's heart rate which is sent to owner's social media accounts","a personal assistant (e.g., Siri, Amazon echo)",owner's heart rate,owner's social media accounts,iotNull
+568,"a personal assistant (e.g., Siri, Amazon echo) records the times it is used which is sent to the local police","a personal assistant (e.g., Siri, Amazon echo)",the times it is used,the local police,iotNull
+569,"a personal assistant (e.g., Siri, Amazon echo) records the times it is used which is sent to government intelligence agencies","a personal assistant (e.g., Siri, Amazon echo)",the times it is used,government intelligence agencies,iotNull
+570,"a personal assistant (e.g., Siri, Amazon echo) records the times it is used which is sent to owner's doctor","a personal assistant (e.g., Siri, Amazon echo)",the times it is used,owner's doctor,iotNull
+571,"a personal assistant (e.g., Siri, Amazon echo) records the times it is used which is sent to an Internet service provider","a personal assistant (e.g., Siri, Amazon echo)",the times it is used,an Internet service provider,iotNull
+572,"a personal assistant (e.g., Siri, Amazon echo) records the times it is used which is sent to its manufacturer","a personal assistant (e.g., Siri, Amazon echo)",the times it is used,its manufacturer,iotNull
+573,"a personal assistant (e.g., Siri, Amazon echo) records the times it is used which is sent to other devices in the home","a personal assistant (e.g., Siri, Amazon echo)",the times it is used,other devices in the home,iotNull
+574,"a personal assistant (e.g., Siri, Amazon echo) records the times it is used which is sent to owner's immediate family","a personal assistant (e.g., Siri, Amazon echo)",the times it is used,owner's immediate family,iotNull
+575,"a personal assistant (e.g., Siri, Amazon echo) records the times it is used which is sent to owner's social media accounts","a personal assistant (e.g., Siri, Amazon echo)",the times it is used,owner's social media accounts,iotNull

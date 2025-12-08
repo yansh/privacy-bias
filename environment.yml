@@ -1,14 +1,31 @@
 name: myenv
 channels:
+  # Prioritize the official sources for deep learning packages
+  - pytorch
+  - nvidia
   - conda-forge
+  - defaults
+
 dependencies:
-  - python=3.13
+  # 1. FIX PYTHON VERSION: Retain Python 3.12, but be aware of the PyTorch 2.7.1 requirement for 3.13.
+  # This may still be a point of failure, but we keep it as a minimal change.
+  - python=3.11.*
   - numpy
   - pandas
   - matplotlib
-  - jupyterlab
-  - ipykernel
   - seaborn
   - ipywidgets
   - widgetsnbextension
-  - jupyterlab_widgets
+  - jupyterlab
+  - ipykernel  
+  - pip:
+      # Install Python packages using pip inside the conda environment
+      - vllm[gpu]==0.10.0  # Install GPU-enabled vllm
+      - triton  # Install triton (GPU support if available)
+      - tokenizers
+      - torchaudio  # Install torchaudio (make sure it's compiled with CUDA support)
+      - torchvision  # Install torchvision (make sure it's compiled with CUDA support)
+      - tqdm
+      - transformers
+
+      

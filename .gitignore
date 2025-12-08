@@ -5,6 +5,12 @@ __pycache__/
 # VS Code
 .vscode/
 
+# tocken
+token
+
+# unarchived results (too big to include)
+.results/
+
 # Jupyter
 .ipynb_checkpoints/
 

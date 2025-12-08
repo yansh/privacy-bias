@@ -1,0 +1,121 @@
+,vignette,sender,infotype,recipient,type
+0,a smart speaker/baby monitor records its owner's child's heart rate which is sent to its manufacturer,a smart speaker/baby monitor,its owner's child's heart rate,its manufacturer,coppaNull
+1,a smart speaker/baby monitor records its owner's child's heart rate which is sent to a third-party service provider,a smart speaker/baby monitor,its owner's child's heart rate,a third-party service provider,coppaNull
+2,a smart speaker/baby monitor records its owner's child's frequently asked questions which is sent to its manufacturer,a smart speaker/baby monitor,its owner's child's frequently asked questions,its manufacturer,coppaNull
+3,a smart speaker/baby monitor records its owner's child's frequently asked questions which is sent to a third-party service provider,a smart speaker/baby monitor,its owner's child's frequently asked questions,a third-party service provider,coppaNull
+4,a smart speaker/baby monitor records the times its owner's child is home which is sent to its manufacturer,a smart speaker/baby monitor,the times its owner's child is home,its manufacturer,coppaNull
+5,a smart speaker/baby monitor records the times its owner's child is home which is sent to a third-party service provider,a smart speaker/baby monitor,the times its owner's child is home,a third-party service provider,coppaNull
+6,a smart speaker/baby monitor records the times it is used which is sent to its manufacturer,a smart speaker/baby monitor,the times it is used,its manufacturer,coppaNull
+7,a smart speaker/baby monitor records the times it is used which is sent to a third-party service provider,a smart speaker/baby monitor,the times it is used,a third-party service provider,coppaNull
+8,a smart speaker/baby monitor records its owner's child's frequently traveled routes which is sent to its manufacturer,a smart speaker/baby monitor,its owner's child's frequently traveled routes,its manufacturer,coppaNull
+9,a smart speaker/baby monitor records its owner's child's frequently traveled routes which is sent to a third-party service provider,a smart speaker/baby monitor,its owner's child's frequently traveled routes,a third-party service provider,coppaNull
+10,a smart speaker/baby monitor records its owner's child's location which is sent to its manufacturer,a smart speaker/baby monitor,its owner's child's location,its manufacturer,coppaNull
+11,a smart speaker/baby monitor records its owner's child's location which is sent to a third-party service provider,a smart speaker/baby monitor,its owner's child's location,a third-party service provider,coppaNull
+12,a smart speaker/baby monitor records its owner's child's sleeping habits which is sent to its manufacturer,a smart speaker/baby monitor,its owner's child's sleeping habits,its manufacturer,coppaNull
+13,a smart speaker/baby monitor records its owner's child's sleeping habits which is sent to a third-party service provider,a smart speaker/baby monitor,its owner's child's sleeping habits,a third-party service provider,coppaNull
+14,a smart speaker/baby monitor records its owner's child's call history which is sent to its manufacturer,a smart speaker/baby monitor,its owner's child's call history,its manufacturer,coppaNull
+15,a smart speaker/baby monitor records its owner's child's call history which is sent to a third-party service provider,a smart speaker/baby monitor,its owner's child's call history,a third-party service provider,coppaNull
+16,a smart speaker/baby monitor records audio of its owner's child which is sent to its manufacturer,a smart speaker/baby monitor,audio of its owner's child,its manufacturer,coppaNull
+17,a smart speaker/baby monitor records audio of its owner's child which is sent to a third-party service provider,a smart speaker/baby monitor,audio of its owner's child,a third-party service provider,coppaNull
+18,a smart speaker/baby monitor records its owner's child's emergency contacts which is sent to its manufacturer,a smart speaker/baby monitor,its owner's child's emergency contacts,its manufacturer,coppaNull
+19,a smart speaker/baby monitor records its owner's child's emergency contacts which is sent to a third-party service provider,a smart speaker/baby monitor,its owner's child's emergency contacts,a third-party service provider,coppaNull
+20,a smart speaker/baby monitor records video of its owner's child which is sent to its manufacturer,a smart speaker/baby monitor,video of its owner's child,its manufacturer,coppaNull
+21,a smart speaker/baby monitor records video of its owner's child which is sent to a third-party service provider,a smart speaker/baby monitor,video of its owner's child,a third-party service provider,coppaNull
+22,a smart speaker/baby monitor records its owner's child's birthday which is sent to its manufacturer,a smart speaker/baby monitor,its owner's child's birthday,its manufacturer,coppaNull
+23,a smart speaker/baby monitor records its owner's child's birthday which is sent to a third-party service provider,a smart speaker/baby monitor,its owner's child's birthday,a third-party service provider,coppaNull
+24,a smart watch records its owner's child's heart rate which is sent to its manufacturer,a smart watch,its owner's child's heart rate,its manufacturer,coppaNull
+25,a smart watch records its owner's child's heart rate which is sent to a third-party service provider,a smart watch,its owner's child's heart rate,a third-party service provider,coppaNull
+26,a smart watch records its owner's child's frequently asked questions which is sent to its manufacturer,a smart watch,its owner's child's frequently asked questions,its manufacturer,coppaNull
+27,a smart watch records its owner's child's frequently asked questions which is sent to a third-party service provider,a smart watch,its owner's child's frequently asked questions,a third-party service provider,coppaNull
+28,a smart watch records the times its owner's child is home which is sent to its manufacturer,a smart watch,the times its owner's child is home,its manufacturer,coppaNull
+29,a smart watch records the times its owner's child is home which is sent to a third-party service provider,a smart watch,the times its owner's child is home,a third-party service provider,coppaNull
+30,a smart watch records the times it is used which is sent to its manufacturer,a smart watch,the times it is used,its manufacturer,coppaNull
+31,a smart watch records the times it is used which is sent to a third-party service provider,a smart watch,the times it is used,a third-party service provider,coppaNull
+32,a smart watch records its owner's child's frequently traveled routes which is sent to its manufacturer,a smart watch,its owner's child's frequently traveled routes,its manufacturer,coppaNull
+33,a smart watch records its owner's child's frequently traveled routes which is sent to a third-party service provider,a smart watch,its owner's child's frequently traveled routes,a third-party service provider,coppaNull
+34,a smart watch records its owner's child's location which is sent to its manufacturer,a smart watch,its owner's child's location,its manufacturer,coppaNull
+35,a smart watch records its owner's child's location which is sent to a third-party service provider,a smart watch,its owner's child's location,a third-party service provider,coppaNull
+36,a smart watch records its owner's child's sleeping habits which is sent to its manufacturer,a smart watch,its owner's child's sleeping habits,its manufacturer,coppaNull
+37,a smart watch records its owner's child's sleeping habits which is sent to a third-party service provider,a smart watch,its owner's child's sleeping habits,a third-party service provider,coppaNull
+38,a smart watch records its owner's child's call history which is sent to its manufacturer,a smart watch,its owner's child's call history,its manufacturer,coppaNull
+39,a smart watch records its owner's child's call history which is sent to a third-party service provider,a smart watch,its owner's child's call history,a third-party service provider,coppaNull
+40,a smart watch records audio of its owner's child which is sent to its manufacturer,a smart watch,audio of its owner's child,its manufacturer,coppaNull
+41,a smart watch records audio of its owner's child which is sent to a third-party service provider,a smart watch,audio of its owner's child,a third-party service provider,coppaNull
+42,a smart watch records its owner's child's emergency contacts which is sent to its manufacturer,a smart watch,its owner's child's emergency contacts,its manufacturer,coppaNull
+43,a smart watch records its owner's child's emergency contacts which is sent to a third-party service provider,a smart watch,its owner's child's emergency contacts,a third-party service provider,coppaNull
+44,a smart watch records video of its owner's child which is sent to its manufacturer,a smart watch,video of its owner's child,its manufacturer,coppaNull
+45,a smart watch records video of its owner's child which is sent to a third-party service provider,a smart watch,video of its owner's child,a third-party service provider,coppaNull
+46,a smart watch records its owner's child's birthday which is sent to its manufacturer,a smart watch,its owner's child's birthday,its manufacturer,coppaNull
+47,a smart watch records its owner's child's birthday which is sent to a third-party service provider,a smart watch,its owner's child's birthday,a third-party service provider,coppaNull
+48,a toy walkie-talkie records its owner's child's heart rate which is sent to its manufacturer,a toy walkie-talkie,its owner's child's heart rate,its manufacturer,coppaNull
+49,a toy walkie-talkie records its owner's child's heart rate which is sent to a third-party service provider,a toy walkie-talkie,its owner's child's heart rate,a third-party service provider,coppaNull
+50,a toy walkie-talkie records its owner's child's frequently asked questions which is sent to its manufacturer,a toy walkie-talkie,its owner's child's frequently asked questions,its manufacturer,coppaNull
+51,a toy walkie-talkie records its owner's child's frequently asked questions which is sent to a third-party service provider,a toy walkie-talkie,its owner's child's frequently asked questions,a third-party service provider,coppaNull
+52,a toy walkie-talkie records the times its owner's child is home which is sent to its manufacturer,a toy walkie-talkie,the times its owner's child is home,its manufacturer,coppaNull
+53,a toy walkie-talkie records the times its owner's child is home which is sent to a third-party service provider,a toy walkie-talkie,the times its owner's child is home,a third-party service provider,coppaNull
+54,a toy walkie-talkie records the times it is used which is sent to its manufacturer,a toy walkie-talkie,the times it is used,its manufacturer,coppaNull
+55,a toy walkie-talkie records the times it is used which is sent to a third-party service provider,a toy walkie-talkie,the times it is used,a third-party service provider,coppaNull
+56,a toy walkie-talkie records its owner's child's frequently traveled routes which is sent to its manufacturer,a toy walkie-talkie,its owner's child's frequently traveled routes,its manufacturer,coppaNull
+57,a toy walkie-talkie records its owner's child's frequently traveled routes which is sent to a third-party service provider,a toy walkie-talkie,its owner's child's frequently traveled routes,a third-party service provider,coppaNull
+58,a toy walkie-talkie records its owner's child's location which is sent to its manufacturer,a toy walkie-talkie,its owner's child's location,its manufacturer,coppaNull
+59,a toy walkie-talkie records its owner's child's location which is sent to a third-party service provider,a toy walkie-talkie,its owner's child's location,a third-party service provider,coppaNull
+60,a toy walkie-talkie records its owner's child's sleeping habits which is sent to its manufacturer,a toy walkie-talkie,its owner's child's sleeping habits,its manufacturer,coppaNull
+61,a toy walkie-talkie records its owner's child's sleeping habits which is sent to a third-party service provider,a toy walkie-talkie,its owner's child's sleeping habits,a third-party service provider,coppaNull
+62,a toy walkie-talkie records its owner's child's call history which is sent to its manufacturer,a toy walkie-talkie,its owner's child's call history,its manufacturer,coppaNull
+63,a toy walkie-talkie records its owner's child's call history which is sent to a third-party service provider,a toy walkie-talkie,its owner's child's call history,a third-party service provider,coppaNull
+64,a toy walkie-talkie records audio of its owner's child which is sent to its manufacturer,a toy walkie-talkie,audio of its owner's child,its manufacturer,coppaNull
+65,a toy walkie-talkie records audio of its owner's child which is sent to a third-party service provider,a toy walkie-talkie,audio of its owner's child,a third-party service provider,coppaNull
+66,a toy walkie-talkie records its owner's child's emergency contacts which is sent to its manufacturer,a toy walkie-talkie,its owner's child's emergency contacts,its manufacturer,coppaNull
+67,a toy walkie-talkie records its owner's child's emergency contacts which is sent to a third-party service provider,a toy walkie-talkie,its owner's child's emergency contacts,a third-party service provider,coppaNull
+68,a toy walkie-talkie records video of its owner's child which is sent to its manufacturer,a toy walkie-talkie,video of its owner's child,its manufacturer,coppaNull
+69,a toy walkie-talkie records video of its owner's child which is sent to a third-party service provider,a toy walkie-talkie,video of its owner's child,a third-party service provider,coppaNull
+70,a toy walkie-talkie records its owner's child's birthday which is sent to its manufacturer,a toy walkie-talkie,its owner's child's birthday,its manufacturer,coppaNull
+71,a toy walkie-talkie records its owner's child's birthday which is sent to a third-party service provider,a toy walkie-talkie,its owner's child's birthday,a third-party service provider,coppaNull
+72,a smart doll records its owner's child's heart rate which is sent to its manufacturer,a smart doll,its owner's child's heart rate,its manufacturer,coppaNull
+73,a smart doll records its owner's child's heart rate which is sent to a third-party service provider,a smart doll,its owner's child's heart rate,a third-party service provider,coppaNull
+74,a smart doll records its owner's child's frequently asked questions which is sent to its manufacturer,a smart doll,its owner's child's frequently asked questions,its manufacturer,coppaNull
+75,a smart doll records its owner's child's frequently asked questions which is sent to a third-party service provider,a smart doll,its owner's child's frequently asked questions,a third-party service provider,coppaNull
+76,a smart doll records the times its owner's child is home which is sent to its manufacturer,a smart doll,the times its owner's child is home,its manufacturer,coppaNull
+77,a smart doll records the times its owner's child is home which is sent to a third-party service provider,a smart doll,the times its owner's child is home,a third-party service provider,coppaNull
+78,a smart doll records the times it is used which is sent to its manufacturer,a smart doll,the times it is used,its manufacturer,coppaNull
+79,a smart doll records the times it is used which is sent to a third-party service provider,a smart doll,the times it is used,a third-party service provider,coppaNull
+80,a smart doll records its owner's child's frequently traveled routes which is sent to its manufacturer,a smart doll,its owner's child's frequently traveled routes,its manufacturer,coppaNull
+81,a smart doll records its owner's child's frequently traveled routes which is sent to a third-party service provider,a smart doll,its owner's child's frequently traveled routes,a third-party service provider,coppaNull
+82,a smart doll records its owner's child's location which is sent to its manufacturer,a smart doll,its owner's child's location,its manufacturer,coppaNull
+83,a smart doll records its owner's child's location which is sent to a third-party service provider,a smart doll,its owner's child's location,a third-party service provider,coppaNull
+84,a smart doll records its owner's child's sleeping habits which is sent to its manufacturer,a smart doll,its owner's child's sleeping habits,its manufacturer,coppaNull
+85,a smart doll records its owner's child's sleeping habits which is sent to a third-party service provider,a smart doll,its owner's child's sleeping habits,a third-party service provider,coppaNull
+86,a smart doll records its owner's child's call history which is sent to its manufacturer,a smart doll,its owner's child's call history,its manufacturer,coppaNull
+87,a smart doll records its owner's child's call history which is sent to a third-party service provider,a smart doll,its owner's child's call history,a third-party service provider,coppaNull
+88,a smart doll records audio of its owner's child which is sent to its manufacturer,a smart doll,audio of its owner's child,its manufacturer,coppaNull
+89,a smart doll records audio of its owner's child which is sent to a third-party service provider,a smart doll,audio of its owner's child,a third-party service provider,coppaNull
+90,a smart doll records its owner's child's emergency contacts which is sent to its manufacturer,a smart doll,its owner's child's emergency contacts,its manufacturer,coppaNull
+91,a smart doll records its owner's child's emergency contacts which is sent to a third-party service provider,a smart doll,its owner's child's emergency contacts,a third-party service provider,coppaNull
+92,a smart doll records video of its owner's child which is sent to its manufacturer,a smart doll,video of its owner's child,its manufacturer,coppaNull
+93,a smart doll records video of its owner's child which is sent to a third-party service provider,a smart doll,video of its owner's child,a third-party service provider,coppaNull
+94,a smart doll records its owner's child's birthday which is sent to its manufacturer,a smart doll,its owner's child's birthday,its manufacturer,coppaNull
+95,a smart doll records its owner's child's birthday which is sent to a third-party service provider,a smart doll,its owner's child's birthday,a third-party service provider,coppaNull
+96,a toy robot records its owner's child's heart rate which is sent to its manufacturer,a toy robot,its owner's child's heart rate,its manufacturer,coppaNull
+97,a toy robot records its owner's child's heart rate which is sent to a third-party service provider,a toy robot,its owner's child's heart rate,a third-party service provider,coppaNull
+98,a toy robot records its owner's child's frequently asked questions which is sent to its manufacturer,a toy robot,its owner's child's frequently asked questions,its manufacturer,coppaNull
+99,a toy robot records its owner's child's frequently asked questions which is sent to a third-party service provider,a toy robot,its owner's child's frequently asked questions,a third-party service provider,coppaNull
+100,a toy robot records the times its owner's child is home which is sent to its manufacturer,a toy robot,the times its owner's child is home,its manufacturer,coppaNull
+101,a toy robot records the times its owner's child is home which is sent to a third-party service provider,a toy robot,the times its owner's child is home,a third-party service provider,coppaNull
+102,a toy robot records the times it is used which is sent to its manufacturer,a toy robot,the times it is used,its manufacturer,coppaNull
+103,a toy robot records the times it is used which is sent to a third-party service provider,a toy robot,the times it is used,a third-party service provider,coppaNull
+104,a toy robot records its owner's child's frequently traveled routes which is sent to its manufacturer,a toy robot,its owner's child's frequently traveled routes,its manufacturer,coppaNull
+105,a toy robot records its owner's child's frequently traveled routes which is sent to a third-party service provider,a toy robot,its owner's child's frequently traveled routes,a third-party service provider,coppaNull
+106,a toy robot records its owner's child's location which is sent to its manufacturer,a toy robot,its owner's child's location,its manufacturer,coppaNull
+107,a toy robot records its owner's child's location which is sent to a third-party service provider,a toy robot,its owner's child's location,a third-party service provider,coppaNull
+108,a toy robot records its owner's child's sleeping habits which is sent to its manufacturer,a toy robot,its owner's child's sleeping habits,its manufacturer,coppaNull
+109,a toy robot records its owner's child's sleeping habits which is sent to a third-party service provider,a toy robot,its owner's child's sleeping habits,a third-party service provider,coppaNull
+110,a toy robot records its owner's child's call history which is sent to its manufacturer,a toy robot,its owner's child's call history,its manufacturer,coppaNull
+111,a toy robot records its owner's child's call history which is sent to a third-party service provider,a toy robot,its owner's child's call history,a third-party service provider,coppaNull
+112,a toy robot records audio of its owner's child which is sent to its manufacturer,a toy robot,audio of its owner's child,its manufacturer,coppaNull
+113,a toy robot records audio of its owner's child which is sent to a third-party service provider,a toy robot,audio of its owner's child,a third-party service provider,coppaNull
+114,a toy robot records its owner's child's emergency contacts which is sent to its manufacturer,a toy robot,its owner's child's emergency contacts,its manufacturer,coppaNull
+115,a toy robot records its owner's child's emergency contacts which is sent to a third-party service provider,a toy robot,its owner's child's emergency contacts,a third-party service provider,coppaNull
+116,a toy robot records video of its owner's child which is sent to its manufacturer,a toy robot,video of its owner's child,its manufacturer,coppaNull
+117,a toy robot records video of its owner's child which is sent to a third-party service provider,a toy robot,video of its owner's child,a third-party service provider,coppaNull
+118,a toy robot records its owner's child's birthday which is sent to its manufacturer,a toy robot,its owner's child's birthday,its manufacturer,coppaNull
+119,a toy robot records its owner's child's birthday which is sent to a third-party service provider,a toy robot,its owner's child's birthday,a third-party service provider,coppaNull

@@ -1,6 +1,10 @@
 {
   "name": "Privacy-Bias-docker",
   "dockerFile": "../Dockerfile",
+  "runArgs": [
+    "--gpus",
+    "all"
+  ],
   // VS Code customizations
   "customizations": {
     "vscode": {
@@ -32,8 +36,7 @@
   },
   // Fixed mount paths (using workspace-relative variables)
   "mounts": [
-    "type=bind,source=${localWorkspaceFolder}/plots/objects,target=/home/auditor/objects",
-    "type=bind,source=${localWorkspaceFolder}/plots,target=/home/auditor/plots"
+    "type=bind,source=$(pwd),target=/home/ubuntu/privacy-bias"
   ],
   "remoteUser": "auditor"
 }

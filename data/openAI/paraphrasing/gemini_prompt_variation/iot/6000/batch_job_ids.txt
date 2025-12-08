@@ -1,0 +1,4 @@
+'batch_690ea860e54c81909437fe6ed0225ac6',data/openAI/gemini_pvar/iot/batch_iot_0_pvar_kshot.jsonl,completed 
+'batch_690eaea7260081908d7a57f5b01d6b8f',data/openAI/gemini_pvar/iot/batch_iot_1_pvar_kshot.jsonl,completed 
+'batch_690eb8d6ec4c81909aabdf8adb928d3a',data/openAI/gemini_pvar/iot/batch_iot_2_pvar_kshot.jsonl,completed 
+'batch_690ec3d209188190865a3c1424ef826a',data/openAI/gemini_pvar/iot/batch_iot_3_pvar_kshot.jsonl,completed 
