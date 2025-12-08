@@ -1,8 +1,3 @@
----
-title: "Privacy Bias"
-output: html_document
----
-
 # Privacy Bias
 
 **Paper title**: Privacy Bias in Language Models: A Contextual Integrity-based Auditing Metric
