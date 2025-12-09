@@ -17,6 +17,7 @@
    - [Step 2: Run the Docker Container](#step-2-run-the-docker-container)
    - [Step 3: Run the Experiment](#step-3-run-the-experiment)
 5. [Prompting OpenAI](#prompting-openai)
+6. [Exporting figures](#exporting-figures)
 ## Description
 
 ```bibtex
