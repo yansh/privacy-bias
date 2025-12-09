@@ -628,4 +628,4 @@ def draw_triangular_heatmap(
 
     # plt.colorbar(imgs[0], ax=ax)
     # plt.tight_layout()
-    plt.show()
+    return plt

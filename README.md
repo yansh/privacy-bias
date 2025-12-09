@@ -71,13 +71,6 @@ docker build -t privacy_bias:latest .
 2. Run:
 
 ```bash
-docker run -p 8888:8888 \
-    -v ./plots/objects:/home/auditor/./plots/objects \
-    -v ./plots:/home/auditor/plots \
-    privacy_bias:latest
-```
-
-```bash
 docker run --gpus all --runtime=nvidia -it \
     -v $(pwd):/home/ubuntu/privacy-bias \
     privacy_bias:latest /bin/bash -c "cd /home/ubuntu/privacy-bias && exec bash"
@@ -104,4 +97,13 @@ bash run_experiments.sh
 The `data` folder contains batches of data specifically prepared for use with the `gpt-4o-mini` model.  
 
 Upload the batches directly to the [OpenAI platform](https://platform.openai.com/).
+
+
+### Exporting figures
+
+Use this command to export the paper figures into the `figs` folder
+```bash
+bash export_figures.sh --export figs
+```
+
 

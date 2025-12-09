@@ -5,6 +5,8 @@ __pycache__/
 # VS Code
 .vscode/
 
+#logs
+*.log
 # tocken
 token
 
