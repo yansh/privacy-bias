@@ -9,17 +9,14 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Instructions](#instructions)
-   - [Using a locally built Docker image](#using-a-locally-built-docker-image)
-   - [Using VS Code](#using-vs-code)
-3. [Important Files](#important-files)
-4. [Hardware Requirements](#hardware-requirements)
-5. [Software Requirements](#software-requirements)
-6. [Setup Instructions](#setup-instructions)
+2. [Important Files](#important-files)
+3. [Hardware Requirements](#hardware-requirements)
+4. [Software Requirements](#software-requirements)
+5. [Setup Instructions](#setup-instructions)
    - [Step 1: Build the Docker Image](#step-1-build-the-docker-image)
    - [Step 2: Run the Docker Container](#step-2-run-the-docker-container)
    - [Step 3: Run the Experiment](#step-3-run-the-experiment)
-7. [Prompting OpenAI](#prompting-openai)
+5. [Prompting OpenAI](#prompting-openai)
 ## Description
 
 ```bibtex
@@ -31,6 +28,35 @@
   journal   =   "{Proceedings on Privacy Enhancing Technologies}",
 }
 ```
+
+## Important Files
+
+*  `data` - Datasets of all the generated vignettes
+*  `data/openAI` - includes openAI prompt batches
+* `plots/plots.ipynb` — Jupyter notebook to generate paper figures.
+* `plots/dataframes` - Processes results dataframes
+* `raw_results.7z` — Archive of raw CSV results.
+  * To unpack: `7z x raw_results.7z`
+* `run_experiments.sh`  - bash script to run prompts agains the LLMs
+
+
+## Hardware Requirements
+
+- NVIDIA GPU (tested on RTX 4090)
+- VRAM: 24 GB
+- Driver: 550.127.05
+- CUDA: 12.4
+
+Note: The repositary has the raw data which requires large storage. 
+The plots can be reproduced without requiring access to GPU. 
+GPU and API keys to HuggingFace are required for running new models.
+
+## Software Requirements
+
+- Docker Engine 28.3.3+
+- git 2.39.5+
+- NVIDIA Drivers (tested with 550.127.05)
+- NVIDIA Container Toolkit
 
 ## Instructions
 
@@ -51,6 +77,13 @@ docker run -p 8888:8888 \
     privacy_bias:latest
 ```
 
+```bash
+docker run --gpus all --runtime=nvidia -it \
+    -v $(pwd):/home/ubuntu/privacy-bias \
+    privacy_bias:latest /bin/bash -c "cd /home/ubuntu/privacy-bias && exec bash"
+```
+
+
 3. Open your browser and go to: http://localhost:8888
 
 ### Using VS Code
@@ -59,48 +92,8 @@ docker run -p 8888:8888 \
 2. Open the repository in VS Code.
 3. Press F1 → Dev Containers: Open Folder in Container… → select project.
 
-## Important Files
 
-*  `data` - Datasets of all the generated vignettes
-*  `data/openAI` - includes openAI prompt batches
-* `plots/plots.ipynb` — Jupyter notebook to generate paper figures.
-* `plots/dataframes` - Processes results dataframes
-* `raw_results.7z` — Archive of raw CSV results.
-  * To unpack: `7z x raw_results.7z`
-* `run_experiments.sh`  - bash script to run prompts agains the LLMs
-
-
-## Hardware Requirements
-
-- NVIDIA GPU (tested on RTX 4090)
-- VRAM: 24 GB
-- Driver: 550.127.05
-- CUDA: 12.4
-
-## Software Requirements
-
-- Docker Engine 28.3.3+
-- git 2.39.5+
-- NVIDIA Drivers (tested with 550.127.05)
-- NVIDIA Container Toolkit
-
-## Instructions
-
-### Step 1: Build the Docker Image
-
-```bash
-docker build -t privacy_bias:latest .
-```
-
-### Step 2: Run the Docker Container
-
-```bash
-docker run --gpus all --runtime=nvidia -it \
-    -v $(pwd):/home/ubuntu/privacy-bias \
-    privacy_bias:latest /bin/bash -c "cd /home/ubuntu/privacy-bias && exec bash"
-```
-
-### Step 3: Run the Experiment
+### Run the Experiment
 
 ```bash
 bash run_experiments.sh
