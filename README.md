@@ -32,13 +32,14 @@
 
 ## Important Files
 
-*  `data` - Datasets of all the generated vignettes
-*  `data/openAI` - includes openAI prompt batches
+*  `data` - datasets of all the generated vignettes
+*  `data/openAI` -  openAI prompt batches
 * `plots/plots.ipynb` — Jupyter notebook to generate paper figures.
-* `plots/dataframes` - Processes results dataframes
-* `raw_results.7z` — Archive of raw CSV results.
+* `plots/dataframes` - Results dataframes.
+* `raw_results.7z` — Archive containing raw CSV results.
   * To unpack: `7z x raw_results.7z`
 * `run_experiments.sh`  - bash script to run prompts agains the LLMs
+* `export_figures.sh`  - bash script to export all the paper figures
 
 
 ## Hardware Requirements
