@@ -32,13 +32,14 @@
 
 ## Important Files
 
-*  `data` - Datasets of all the generated vignettes
-*  `data/openAI` - includes openAI prompt batches
+*  `data` - datasets of all the generated vignettes
+*  `data/openAI` -  openAI prompt batches
 * `plots/plots.ipynb` — Jupyter notebook to generate paper figures.
-* `plots/dataframes` - Processes results dataframes
-* `raw_results.7z` — Archive of raw CSV results.
+* `plots/dataframes` - Results dataframes.
+* `raw_results.7z` — Archive containing raw CSV results.
   * To unpack: `7z x raw_results.7z`
 * `run_experiments.sh`  - bash script to run prompts agains the LLMs
+* `export_figures.sh`  - bash script to export all the paper figures
 
 
 ## Hardware Requirements
@@ -77,9 +78,6 @@ docker run --gpus all --runtime=nvidia -it \
     privacy_bias:latest /bin/bash -c "cd /home/ubuntu/privacy-bias && exec bash"
 ```
 
-
-3. Open your browser and go to: http://localhost:8888
-
 ### Using VS Code
 
 1. Install the Dev Containers extension in VS Code.
@@ -89,18 +87,19 @@ docker run --gpus all --runtime=nvidia -it \
 
 ### Run the Experiment
 
+In the docker run: 
 ```bash
 bash run_experiments.sh
 ```
 
-## Prompting OpenAI
+### Prompting OpenAI
 
 The `data` folder contains batches of data specifically prepared for use with the `gpt-4o-mini` model.  
 
 Upload the batches directly to the [OpenAI platform](https://platform.openai.com/).
 
 
-### Exporting figures
+## Exporting figures
 
 Use this command to export the paper figures into the `figs` folder
 ```bash
