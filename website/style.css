@@ -1,0 +1,80 @@
+
+body {
+  background-color: #f8f9fa;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.section-block {
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+h2 {
+  border-bottom: 3px solid #0d6efd;
+  padding-bottom: 8px;
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+/* Citation Card Styling */
+.publication-card {
+  border-left: 5px solid #0d6efd;
+  border-radius: 8px;
+}
+
+.bibtex-block {
+  background: #f4f4f4;
+  padding: 15px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+  border: 1px solid #e0e0e0;
+  overflow-x: auto;
+}
+
+.publication-card .btn {
+  font-size: 0.85rem;
+  padding: 6px 12px;
+}
+
+/* Optional: Hover effect */
+.publication-card:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: 0.2s ease;
+}
+
+#paper-header {
+  background-color: #fdfdfd;
+  padding: 30px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);  
+}
+
+.paper-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #222;
+  line-height: 1.3;
+  margin-bottom: 12px;
+}
+
+.paper-authors a {
+  color: #0d6efd;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+.paper-authors a:hover {
+  text-decoration: underline;
+}
