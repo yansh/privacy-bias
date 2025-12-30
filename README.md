@@ -16,7 +16,7 @@
    - [Step 1: Build the Docker Image](#step-1-build-the-docker-image)
    - [Step 2: Run the Docker Container](#step-2-run-the-docker-container)
    - [Step 3: Run the Experiment](#step-3-run-the-experiment)
-5. [Prompting OpenAI](#prompting-openai)
+5. [Prompting the `gpt-4o-mini` Model on OpenAI Platform](#prompting-openai)
 6. [Exporting figures](#exporting-figures)
 ## Description
 
@@ -113,7 +113,7 @@ bash run_experiments.sh
 ```
 
 
-#### Running with selected arguments:
+#### Running with Selected Arguments:
 
 You can specify specific models, temperatures, datasets, and paraphrasing methods using the command-line arguments:
 
@@ -129,14 +129,24 @@ You can specify specific models, temperatures, datasets, and paraphrasing method
 
 
 
-### Prompting OpenAI
+### Prompting the `gpt-4o-mini` Model on OpenAI Platform
 
-The `data` folder contains batches of data specifically prepared for use with the `gpt-4o-mini` model.  
+This part of the experiment requires using the OpenAI platform and an OpenAI secret token linked to a created project. It allows you to run prepared prompt batches on the `gpt-4o-mini` model and collect the results for analysis.
 
-Upload the batches directly to the [OpenAI platform](https://platform.openai.com/).
+**Requirements:**  
+- An OpenAI account.  
+- An OpenAI secret token associated with a created project.  
+- The `data` folder containing batches of prompts prepared for `gpt-4o-mini`.
 
+**Steps to Reproduce:**  
+1. Sign in to the [OpenAI platform](https://platform.openai.com/) and create a new project.  
+2. Ensure your OpenAI secret token is linked to the project.  
+3. Prepare the prompt batches located in the `data` folder.  
+4. Upload the batches directly through [OpenAI's platform batch interface](https://platform.openai.com/batches/) to run the prompts.  
+5. After processing, download the results from the output section.  
+6. The raw results are saved in the `raw_results` folder, ready for further analysis and processing.
 
-## Exporting figures
+## Exporting Figures
 
 This script requires **Python >= 3.10**.
 
