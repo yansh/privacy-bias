@@ -228,7 +228,10 @@ def process_prompts(args, log):
         # returns prompts, ground_truth, dataset df
         prompt_list, ground_truth, df = get_prompts(data_path, args)
 
-    sample_size = len(prompt_list[:1])
+    if args.sample_size:
+        sample_size = min(len(prompt_list), args.sample_size)
+    else:  # run all flows
+        sample_size = len(prompt_list)
 
     ## generate prompts to query the model
     prompts = []
