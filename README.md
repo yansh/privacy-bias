@@ -118,32 +118,9 @@ You can specify specific models, temperatures, datasets, and paraphrasing method
 - **`--datasets=<dataset1> <dataset2> ...`**: Space-separated list of datasets to use (e.g., `--datasets="iot confaide"`). 
 - **`--paraphrasing=<method1> <method2> ...`**: Space-separated list of paraphrasing methods (e.g., `--paraphrasing="gpt gemini"`).
 
-**Examples:**
+*Example usage:*
 
-1. **Specifying Models:**
-   To run the experiment only with specific models (e.g., `allenai/tulu-2-7b` and `meta-llama/Meta-Llama-3.1-8B-Instruct`):
-
-   bash run_experiments.sh --models="allenai/tulu-2-7b meta-llama/Meta-Llama-3.1-8B-Instruct"
-
-2. **Specifying Temperatures:**
-   To run with multiple temperature values (e.g., 0.5 and 1):
-
-   bash run_experiments.sh --temps="0.5 1"
-
-3. **Specifying Datasets:**
-   To specify multiple datasets (e.g., "iot" and "confaide"):
-
-   bash run_experiments.sh --datasets="iot confaide"
-
-4. **Specifying Paraphrasing Methods:**
-   To specify different paraphrasing methods (e.g., "gemini" and "pegasus"):
-
-   bash run_experiments.sh --paraphrasing="gemini pegasus"
-
-5. **Combining Multiple Options:**
-   You can combine multiple options to run experiments with your desired configurations. For example, to run with certain models, temperatures, and datasets:
-
-   bash run_experiments.sh --models="allenai/tulu-2-7b" --temps="0.5" --datasets="iot confaide"
+`bash run_experiments.sh --models="allenai/tulu-2-7b" --temps="0.5" --datasets="iot confaide"`
 
 
 
