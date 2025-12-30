@@ -30,6 +30,10 @@
 }
 ```
 
+## Summary of results and takaways
+
+For summary of the results and main takaways, please visit the [website](https://yansh.github.io/privacy-bias/website/)
+
 ## Important Files
 
 *  `data` - datasets of all the generated vignettes
@@ -41,6 +45,17 @@
 * `run_experiments.sh`  - bash script to run prompts agains the LLMs
 * `export_figures.sh`  - bash script to export all the paper figures
 
+### Notes:
+
+- **Raw Data Storage**:  
+  The repository contains raw CSV which requires >3GB of storage to unarchive.
+
+- **Plot Reproducibility**:  
+  Plots can be reproduced without a GPU, using dataframes containing processed raw data.
+
+- **GPU & API Keys**:  
+  Running new models requires a GPU and Hugging Face API keys.
+
 
 ## Hardware Requirements
 
@@ -48,10 +63,6 @@
 - VRAM: 24 GB
 - Driver: 550.127.05
 - CUDA: 12.4
-
-Note: The repositary has the raw data which requires large storage. 
-The plots can be reproduced without requiring access to GPU. 
-GPU and API keys to HuggingFace are required for running new models.
 
 ## Software Requirements
 
@@ -88,9 +99,52 @@ docker run --gpus all --runtime=nvidia -it \
 ### Run the Experiment
 
 In the docker run: 
+
+To run the script with the default configurations (i.e., using all models, temperature 0, and dataset "iot"):
+
 ```bash
 bash run_experiments.sh
 ```
+
+
+#### Running with selected arguments:
+
+You can specify specific models, temperatures, datasets, and paraphrasing methods using the command-line arguments:
+
+- **`--models=<model1> <model2> ...`**: Space-separated list of models to run experiments with (e.g., `--models="allenai/tulu-2-7b meta-llama/Meta-Llama-3.1-8B-Instruct"`).  
+- **`--temps=<temp1> <temp2> ...`**: Space-separated list of temperatures to use (e.g., `--temps="0 0.5"`). 
+- **`--datasets=<dataset1> <dataset2> ...`**: Space-separated list of datasets to use (e.g., `--datasets="iot confaide"`). 
+- **`--paraphrasing=<method1> <method2> ...`**: Space-separated list of paraphrasing methods (e.g., `--paraphrasing="gpt gemini"`).
+
+**Examples:**
+
+1. **Specifying Models:**
+   To run the experiment only with specific models (e.g., `allenai/tulu-2-7b` and `meta-llama/Meta-Llama-3.1-8B-Instruct`):
+
+   bash run_experiments.sh --models="allenai/tulu-2-7b meta-llama/Meta-Llama-3.1-8B-Instruct"
+
+2. **Specifying Temperatures:**
+   To run with multiple temperature values (e.g., 0.5 and 1):
+
+   bash run_experiments.sh --temps="0.5 1"
+
+3. **Specifying Datasets:**
+   To specify multiple datasets (e.g., "iot" and "confaide"):
+
+   bash run_experiments.sh --datasets="iot confaide"
+
+4. **Specifying Paraphrasing Methods:**
+   To specify different paraphrasing methods (e.g., "gemini" and "pegasus"):
+
+   bash run_experiments.sh --paraphrasing="gemini pegasus"
+
+5. **Combining Multiple Options:**
+   You can combine multiple options to run experiments with your desired configurations. For example, to run with certain models, temperatures, and datasets:
+
+   bash run_experiments.sh --models="allenai/tulu-2-7b" --temps="0.5" --datasets="iot confaide"
+
+
+
 
 ### Prompting OpenAI
 
@@ -100,6 +154,8 @@ Upload the batches directly to the [OpenAI platform](https://platform.openai.com
 
 
 ## Exporting figures
+
+This script requires **Python >= 3.10**.
 
 Use this command to export the paper figures into the `figs` folder
 ```bash
