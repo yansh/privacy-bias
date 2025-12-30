@@ -72,7 +72,7 @@ if $EXPORT_FLAG ; then
     export EXPORT_DIR="$EXPORT_DIR"
 
     echo "Running plots.ipynb with export parameter..."
-    jupyter nbconvert \
+    python -m nbconvert \
         --to notebook \
         --execute plots/plots.ipynb \
         --output output_executed.ipynb \
