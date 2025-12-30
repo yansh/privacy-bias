@@ -48,7 +48,9 @@ For summary of the results and main takaways, please visit the [website](https:/
 ### Notes:
 
 - **Raw Data Storage**:  
-  The repository contains raw CSV which requires >3GB of storage to unarchive.
+  The repository contains raw CSV which requires around 3.1 GB of storage to unarchive.
+  This includes results_PETS (1.6GB), results_temp/ (201MB) and results_paraphrasing/ (1.4GB).
+  For loading models from disk, each models considered in our work take up atmost 10GB each.
 
 - **Plot Reproducibility**:  
   Plots can be reproduced without a GPU, using dataframes containing processed raw data.
