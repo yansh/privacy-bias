@@ -59,19 +59,23 @@ For summary of the results and main takaways, please visit the [website](https:/
   Running new models requires a GPU and Hugging Face API keys.
 
 
-## Hardware Requirements
+## Minimum Hardware Requirements
 
 - NVIDIA GPU (tested on RTX 4090)
 - VRAM: 24 GB
+  - Note allenai/tulu-2-13b and allenai/tulu-2-dpo-13b require 80 GB 
 - Driver: 550.127.05
 - CUDA: 12.4
 
-## Software Requirements
+## Minimum Software Requirements
 
 - Docker Engine 28.3.3+
 - git 2.39.5+
 - NVIDIA Drivers (tested with 550.127.05)
 - NVIDIA Container Toolkit
+
+
+
 
 ## Instructions
 
