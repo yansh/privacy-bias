@@ -263,7 +263,7 @@ def process_prompts(args, log):
         #
         #  For Cofaide. For every prompt variation. We run 3 differet likert scales. 98 x 9 (3 in case of openAI) prompt variations x 3 random likert scales.
         #
-        likert_random = False
+        likert_random = True
         if args.prompt_type == "kshot":
             for i in range(len(k_shot_prompts)):
                 if likert_random:
