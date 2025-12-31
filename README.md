@@ -10,14 +10,17 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Important Files](#important-files)
-3. [Hardware Requirements](#hardware-requirements)
-4. [Software Requirements](#software-requirements)
-5. [Setup Instructions](#setup-instructions)
+3. [Minimum Hardware Requirements](#minimum-hardware-requirements)
+4. [Minimum Software Requirements](#minimum-software-requirements)
+5. [Estimated Time and Storage Consumption](#estimated-time-and-storage-consumption)
+6. [Setup Instructions](#setup-instructions)
    - [Step 1: Build the Docker Image](#step-1-build-the-docker-image)
    - [Step 2: Run the Docker Container](#step-2-run-the-docker-container)
    - [Step 3: Run the Experiment](#step-3-run-the-experiment)
-5. [Prompting the `gpt-4o-mini` Model on OpenAI Platform](#prompting-openai)
-6. [Exporting figures](#exporting-figures)
+7. [Prompting the `gpt-4o-mini` Model on OpenAI Platform](#prompting-the-gpt-4o-mini-model-on-openai-platform)
+8. [Exporting figures](#exporting-figures)
+9. [Summary of Main Results and Takaways](#summary-of-main-results-and-takaways)
+
 ## Description
 
 ```bibtex
@@ -30,9 +33,6 @@
 }
 ```
 
-## Summary of results and takaways
-
-For summary of the results and main takaways, please visit the [website](https://yansh.github.io/privacy-bias/website/)
 
 ## Important Files
 
@@ -47,10 +47,7 @@ For summary of the results and main takaways, please visit the [website](https:/
 
 ### Notes:
 
-- **Raw Data Storage**:  
-  The repository contains raw CSV which requires around 3.1 GB of storage to unarchive.
-  This includes results_PETS (1.6GB), results_temp/ (201MB) and results_paraphrasing/ (1.4GB).
-  For loading models from disk, each models considered in our work take up atmost 10GB each.
+
 
 - **Plot Reproducibility**:  
   Plots can be reproduced without a GPU, using dataframes containing processed raw data.
@@ -75,6 +72,30 @@ For summary of the results and main takaways, please visit the [website](https:/
 - NVIDIA Container Toolkit
 
 
+## Estimated Time and Storage Consumption
+
+
+Model                       | Temperature | Dataset | Paraphrasing | Experiment Time
+----------------------------|-------------|---------|--------------|----------------
+Tulu-2-7B-AWQ               | 0           | iot     | gpt          | 00:21:05
+Meta-Llama-3.1-8B-Instruct  | 0           | iot     | gpt          | 00:18:42
+Tulu-2-dpo-7b               | 0           | iot     | gpt          | 00:33:00
+Tulu-2-13B-AWQ              | 0           | iot     | gpt          | 00:41:59
+Tulu-2-7b                   | 0           | iot     | gpt          | 00:25:21
+Tulu-2-dpo-13b<sup>*</sup>  | 0           | iot     | gpt          | 00:49:57
+Tulu-2-13b<sup>*</sup>      | 0           | iot     | gpt          | 00:18:48
+----------------------------|-------------|---------|--------------|----------------
+Total                       |             |   -    |  -            | 3:28:52
+
+* Experiments marked with an asterisk (*) were run on a server with 80GB VRAM.
+
+**Note:** As discussed below in the [‘gpt-4o-mini’ model](#prompting-openai) experiments are run using the OpenAI platform. The experiment times would depend on the the OpenAI platform. While most batches complete in under 1 hour, they may sometimes take much longer.
+
+### Storage
+
+**Raw Data Storage**:    The repository contains raw CSV which requires around 3.1 GB of storage to unarchive.
+  This includes results_PETS (1.6GB), results_temp/ (201MB) and results_paraphrasing/ (1.4GB).
+  For loading models from disk, each models considered in our work take up atmost 10GB each.
 
 
 ## Instructions
@@ -143,7 +164,7 @@ This part of the experiment requires using the OpenAI platform and an OpenAI sec
 2. Ensure your OpenAI secret token is linked to the project.  
 3. Prepare the prompt batches located in the `data` folder.  
 4. Upload the batches directly through [OpenAI's platform batch interface](https://platform.openai.com/batches/) to run the prompts.  
-5. After processing, download the results from the output section.  
+5. After processing, download the results, under Files section.
 6. The raw results are saved in the `raw_results` folder, ready for further analysis and processing.
 
 ## Exporting Figures
@@ -155,4 +176,26 @@ Use this command to export the paper figures into the `figs` folder
 bash export_figures.sh --export figs
 ```
 
+## Summary of Main Results and Takeaways
 
+For a summary of the results and main takeaways, please visit the [website](https://yansh.github.io/privacy-bias/website/).
+
+*The results can be reproduced using the Jupyter notebook in [`plots/plots.ipynb`](https://github.com/yansh/privacy-bias/blob/main/plots/plots.ipynb) along with the provided dataframes.*
+
+### Demonstrating Prompt Sensitivity
+
+Figure 3 shows significant variance in responses due to paraphrasing and changing the Likert scale order, which hinders the reliable evaluation of privacy biases. Figure 5 further illustrates variance caused by prompt variation, with three random Likert scale orders per prompt.
+
+### Identifying Privacy Biases
+
+`gpt-4o-mini` and `llama-3.1-8B` exhibit several notable privacy biases. Across all senders, information types, and recipients, for fixed transmission principles (except *stored indefinitely* and *used for advertising*), `gpt-4o-mini` is less conservative, with privacy biases ranging from *strongly acceptable* to *somewhat acceptable*. In contrast, `llama-3.1-8B` is more conservative, generally ranking information flows as *somewhat unacceptable*.
+
+### Demonstrating Impact of LLM Configuration
+
+Figures 8 (Base LLMs with different capacities), Figure 9 (Base vs. Aligned LLMs), and Figure 10 (Base vs. Quantized LLMs) show that privacy biases vary across different capacities and optimizations, even when the training dataset is similar.
+
+## Security/Privacy Issues and Ethical Concerns  
+
+The use of LLM has societal implications. In our evaluation, we use latest LLMs that require a large amount of energy and resources to maintain. While our work has relatively little environmental impact because we are not training or fine-tuning the models, we acknowledge that through the use of tools like OpenAI in our research we contribute to the overall negative effect of these systems on the environment. Our work carries also a social implication: using the theory of Contextual Integrity abrings additional layer of normative rigor in evaluating LLM-based system in understanding how they contribute to the purpose, values and functions in the contexts they operate. 
+
+We do not demonstrate any novel attacks and hence, there is no direct potential for misuse. Further, our work does not have any user studies and we do not require ethics approval form our institute's IRB.
