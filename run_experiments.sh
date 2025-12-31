@@ -1,16 +1,17 @@
 #!/bin/bash
 
 # Set your Hugging Face API token here (required for meta-llama model).
-#export HF_TOKEN="YOUR TOKEN HERE"
+export HF_TOKEN="YOUR TOKEN HERE"
 
 # Define available models and their templates.
+
 declare -A models=(
     ["allenai/tulu-2-7b"]="tulu"
     ["TheBloke/tulu-2-7B-AWQ"]="tulu"
     ["allenai/tulu-2-dpo-7b"]="tulu"
-    #["allenai/tulu-2-13b"]="tulu"
+    ["allenai/tulu-2-13b"]="tulu"
     ["TheBloke/tulu-2-13B-AWQ"]="tulu"
-    #["allenai/tulu-2-dpo-13b"]="tulu"
+    ["allenai/tulu-2-dpo-13b"]="tulu"
     ["meta-llama/Meta-Llama-3.1-8B-Instruct"]="llama3"
 )
 
